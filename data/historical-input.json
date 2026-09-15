@@ -1,0 +1,1890 @@
+{
+  "schemaVersion": 1,
+  "workbookSha256": "02af1235ee8791831c94cdc6dac8321454475b8a6d21184227b750f1f11e0b24",
+  "legacySnapshotSha256": "23569d32c133278ae0e41619f5c26f4fec23501a6317026c9c1a4fee068f8905",
+  "legacyCount": 143,
+  "rows": [
+    {
+      "row": 2,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "House Subcommittee on Modernization & Innovation",
+      "actor": "Institutional (CHA)",
+      "stage": "Funded",
+      "title": "Constituent Engagement Innovation Project (CEIP)",
+      "link": "https://cha.house.gov/2026/4/subcommittee-on-modernization-and-innovation-s-request-for-constituent-engagement-innovation-project-funding-was-approved"
+    },
+    {
+      "row": 3,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "CAO / House Digital Service",
+      "actor": "Institutional (CAO)",
+      "stage": "Launched",
+      "title": "6,000 Microsoft Copilot licenses rolled to House offices",
+      "link": "https://docs.house.gov/meetings/AP/AP24/20250402/118080/HHRG-119-AP24-Wstate-SzpindorC-20250402.pdf"
+    },
+    {
+      "row": 4,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "House Digital Service (CAO)",
+      "actor": "Caseworker",
+      "stage": "In-flight build",
+      "title": "Case Compass — cross-office casework dashboard",
+      "link": "https://www.popvox.org/case-notes/the-long-road-to-change"
+    },
+    {
+      "row": 5,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "House Digital Service (CAO)",
+      "actor": "Hill staff",
+      "stage": "Launched",
+      "title": "HouseCal — all-in-one calendar for Members/staff",
+      "link": "https://www.popvox.org/futureproofing-congress-accomplishments/hds"
+    },
+    {
+      "row": 6,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "House Digital Service (CAO)",
+      "actor": "Hill staff",
+      "stage": "Piloted",
+      "title": "LegiDex — legislative-branch staff directory",
+      "link": "https://fedscoop.com/staff-directory-bill-summary-app-among-tools-presented-at-congressional-hackathon/"
+    },
+    {
+      "row": 7,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "House Digital Service (CAO)",
+      "actor": "Institutional",
+      "stage": "Launched",
+      "title": "FlagTrack — Capitol flag program tracking",
+      "link": "https://www.popvox.org/futureproofing-congress-accomplishments/hds"
+    },
+    {
+      "row": 8,
+      "date": "2026-04-23",
+      "sourceType": "Vendor",
+      "source": "FiscalNote / Fireside",
+      "actor": "Hill staff",
+      "stage": "Launched",
+      "title": "Fireside AI enhancements for legislative inbox",
+      "link": "https://fiscalnote.com/newsroom/new-ai-powered-enhancements-for-fireside"
+    },
+    {
+      "row": 9,
+      "date": "2026-04-23",
+      "sourceType": "Vendor",
+      "source": "Civic (get-civic.com) — Revere",
+      "actor": "Hill staff",
+      "stage": "Piloted",
+      "title": "Revere — AI-native CRM for Hill offices",
+      "link": "https://get-civic.com/"
+    },
+    {
+      "row": 10,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "Hill staff",
+      "stage": "Launched",
+      "title": "StaffLink — RAG chatbot for junior Hill staff",
+      "link": "https://www.popvox.org/blog/stafflink"
+    },
+    {
+      "row": 11,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Congressional Data Task Force",
+      "actor": "Institutional (LoC)",
+      "stage": "In-flight build",
+      "title": "Legislative Branch Data Map (130+ datasets)",
+      "link": "https://congressionaldata.org/congressional-data-task-force-recap-december-12-2025/"
+    },
+    {
+      "row": 12,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Government Publishing Office (GPO)",
+      "actor": "Institutional",
+      "stage": "In-flight build",
+      "title": "MCP (Model Context Protocol) access for GPO publications",
+      "link": "https://congressionaldata.org/congressional-data-task-force-recap-december-12-2025/"
+    },
+    {
+      "row": 13,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Secretary of the Senate + Clerk",
+      "actor": "Institutional",
+      "stage": "In-flight build",
+      "title": "Congressional Video Project — uniform floor video hosting",
+      "link": "https://congressionaldata.org/congressional-data-task-force-recap-december-12-2025/"
+    },
+    {
+      "row": 14,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Clerk / Secretary of the Senate",
+      "actor": "Institutional",
+      "stage": "Piloted",
+      "title": "Senate Comparative Print Suite",
+      "link": "https://congressionaldata.org/congressional-data-task-force-recap-december-12-2025/"
+    },
+    {
+      "row": 15,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "CAO",
+      "actor": "Institutional",
+      "stage": "Stated need",
+      "title": "House payroll system modernization (urgent)",
+      "link": "https://docs.house.gov/meetings/AP/AP24/20250402/118080/HHRG-119-AP24-Wstate-SzpindorC-20250402.pdf"
+    },
+    {
+      "row": 16,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "CRS / Library of Congress",
+      "actor": "Hill staff",
+      "stage": "Funded",
+      "title": "CRS liaison directory expansion",
+      "link": "https://www.popvox.org/blog/fy26-legislative-branch-appropriations-bill"
+    },
+    {
+      "row": 17,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "US Copyright Office",
+      "actor": "Institutional",
+      "stage": "Funded",
+      "title": "Copyright Office Modernization — $10.2M",
+      "link": "https://www.congress.gov/bill/119th-congress/senate-bill/2257/text"
+    },
+    {
+      "row": 18,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Congressional Hackathon 7.0",
+      "actor": "Hill staff",
+      "stage": "Stated need",
+      "title": "Automatic hearing transcripts within minutes",
+      "link": "https://www.popvox.org/blog/hackathon-2025"
+    },
+    {
+      "row": 19,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Congressional Hackathon 7.0",
+      "actor": "Hill staff",
+      "stage": "Stated need",
+      "title": "One-page AI-generated bill summaries",
+      "link": "https://fedscoop.com/staff-directory-bill-summary-app-among-tools-presented-at-congressional-hackathon/"
+    },
+    {
+      "row": 20,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "Hill staff",
+      "stage": "Stated need",
+      "title": "Whistleblower concierge feature for CMS",
+      "link": "https://www.popvox.org/blog/stafflink"
+    },
+    {
+      "row": 21,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation / Casework Navigator",
+      "actor": "Caseworker",
+      "stage": "Stated need",
+      "title": "AI-aware casework training + agency-update feeds",
+      "link": "https://www.popvox.org/blog/casework-navigator-260108"
+    },
+    {
+      "row": 22,
+      "date": "2026-04-23",
+      "sourceType": "Community",
+      "source": "G2 reviews + vendor comparisons",
+      "actor": "Lobbyist/Advocate",
+      "stage": "Stated need",
+      "title": "Affordable LD-2 filing + CRM for small firms/solo",
+      "link": "https://info.legistorm.com/blog/best-public-affairs-software"
+    },
+    {
+      "row": 23,
+      "date": "2026-04-23",
+      "sourceType": "Community",
+      "source": "Quorum user feedback",
+      "actor": "Lobbyist/Advocate",
+      "stage": "Stated need",
+      "title": "Quorum↔Salesforce data alignment issues",
+      "link": "https://www.quorum.us/blog/quorum-vs-fiscalnote/"
+    },
+    {
+      "row": 24,
+      "date": "2026-04-23",
+      "sourceType": "Press",
+      "source": "CBS / Axios / Newsweek",
+      "actor": "Constituent",
+      "stage": "Stated need",
+      "title": "Senate phone system flooded: 1,600/min vs usual 40",
+      "link": "https://www.cbsnews.com/newyork/news/new-york-congress-senate-constituent-phone-calls/"
+    },
+    {
+      "row": 25,
+      "date": "2026-04-23",
+      "sourceType": "Press",
+      "source": "Washington Post / NBC / Rolling Stone",
+      "actor": "Constituent",
+      "stage": "Stated need",
+      "title": "GOP leadership advises members to avoid in-person town halls",
+      "link": "https://www.rollingstone.com/politics/politics-news/republican-leaders-advise-lawmakers-avoid-town-halls-1235280854/"
+    },
+    {
+      "row": 26,
+      "date": "2026-04-23",
+      "sourceType": "Community",
+      "source": "Reddit + Facebook + Substacks (multiple)",
+      "actor": "Constituent",
+      "stage": "Stated need",
+      "title": "Form-letter fatigue + 'calling feels futile'",
+      "link": "https://theoutline.com/post/5758/were-sorry-your-senator-cannot-be-reached-at-this-time"
+    },
+    {
+      "row": 27,
+      "date": "2026-04-23",
+      "sourceType": "Press",
+      "source": "Government Executive",
+      "actor": "Constituent",
+      "stage": "Stated need",
+      "title": "Public-facing 'constituent complaints database' concept",
+      "link": "https://www.govexec.com/oversight/2025/09/developing-database-constituent-complaints-congress-could-help-agencies-find-systemic-issues-their-public-services/408425/"
+    },
+    {
+      "row": 28,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "Alliance of Civic Technologists (ACT)",
+      "actor": "Researcher",
+      "stage": "Launched",
+      "title": "ACT one-year retrospective + network roundup",
+      "link": "https://www.civictechnologists.org/2026/01/january-2026-newsletter"
+    },
+    {
+      "row": 29,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "Beeck Center / Digital Government Network",
+      "actor": "Researcher",
+      "stage": "Launched",
+      "title": "DBN + DSN + CDO networks merge into Digital Government Network (DGN)",
+      "link": "https://digitalgovernmenthub.org/publications/beeck-center-networks-2025-year-in-review/"
+    },
+    {
+      "row": 30,
+      "date": "2026-04-23",
+      "sourceType": "Think tank",
+      "source": "Foundation for American Innovation",
+      "actor": "Researcher",
+      "stage": "Launched",
+      "title": "FAI Action 501(c)(4) launched for AI + energy policy advocacy",
+      "link": "https://www.thefai.org/posts/quarterly-update-q1-2026"
+    },
+    {
+      "row": 31,
+      "date": "2026-04-23",
+      "sourceType": "GitHub",
+      "source": "AI4Legislation 2025 / Oliver Fan",
+      "actor": "Researcher",
+      "stage": "Launched",
+      "title": "Predictive Bill Tracker (Grand Prize, AI4Legislation 2025)",
+      "link": "https://github.com/oliversoctopus/predictive-bill-tracker-dashboard"
+    },
+    {
+      "row": 32,
+      "date": "2026-04-23",
+      "sourceType": "RFP/Appropriations",
+      "source": "FY26 Legislative Branch Approps (H.R. 4249 / S. 2257)",
+      "actor": "Institutional",
+      "stage": "Funded",
+      "title": "$7.1B leg-branch discretionary (w/ House $2.2B)",
+      "link": "https://www.popvox.org/blog/fy26-legislative-branch-appropriations-bill"
+    },
+    {
+      "row": 33,
+      "date": "2026-04-23",
+      "sourceType": "RFP/Appropriations",
+      "source": "SBIR/STTR Reauthorization (S.3971)",
+      "actor": "Institutional",
+      "stage": "Funded",
+      "title": "SBIR/STTR reauthorized through FY31; 'Strategic Breakthrough' awards up to $30M",
+      "link": "https://www.congress.gov/bill/119th-congress/senate-bill/3971"
+    },
+    {
+      "row": 34,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "House Subcommittee on Modernization & Innovation",
+      "actor": "Subcommittee on Modernization & Innovation + Architect of Capitol Flag Office",
+      "stage": "Funded",
+      "title": "FlagTrack 2.0 — digital payments + direct-ship for Capitol flag program",
+      "link": "https://cha.house.gov/2026/3/subcommittee-on-modernization-and-innovation-receives-funding-for-flagtrack-2-0-program"
+    },
+    {
+      "row": 35,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Senate Sergeant at Arms / CIO",
+      "actor": "Senate SAA; Senate staff",
+      "stage": "Launched",
+      "title": "Senate authorizes ChatGPT Enterprise, Gemini, Copilot for Tier-2 Senate data",
+      "link": "https://www.popvox.org/blog/house-senate-ai"
+    },
+    {
+      "row": 36,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "TechCongress",
+      "actor": "TechCongress; bipartisan Congressional offices + committees",
+      "stage": "Launched",
+      "title": "TechCongress kicks off 2026 Congressional Innovation Fellowship (16 fellows)",
+      "link": "https://techcongress.io/blog/2026/3/26/techcongress-kicks-off-2026-congressional-innovation-fellowship"
+    },
+    {
+      "row": 37,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "Library of Congress / Congress.gov",
+      "actor": "Congress.gov team (LoC)",
+      "stage": "Launched",
+      "title": "Congress.gov April 2026 release — adds 117th Congress House roll call votes",
+      "link": "https://blogs.loc.gov/law/2026/04/congress-gov-new-tip-and-top-april-2025-2/"
+    },
+    {
+      "row": 38,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "Aubrey Wilson, Anne Meeker, Danielle Stewart (POPVOX)",
+      "stage": "Stated need",
+      "title": "POPVOX FY2027 public witness testimony — AI capacity, casework, modernization, security",
+      "link": "https://www.popvox.org/blog/popvox-foundation-team-submits-public-witness-testimony-for-fy-2027-legislative-branch-appropriations"
+    },
+    {
+      "row": 39,
+      "date": "2026-04-23",
+      "sourceType": "Hill body",
+      "source": "FY26 Leg Branch Approps (House Clerk directive)",
+      "actor": "House Clerk; Committee on Appropriations / Rules / CHA",
+      "stage": "Stated need",
+      "title": "Remote voting feasibility study (180 days, House Clerk)",
+      "link": "https://www.popvox.org/blog/texas-v-bondi"
+    },
+    {
+      "row": 40,
+      "date": "2026-04-23",
+      "sourceType": "Civic org",
+      "source": "Georgia Tech",
+      "actor": "Georgia Tech Institute for Technology and Civic Leadership",
+      "stage": "Launched",
+      "title": "Georgia Tech launches Institute for Technology and Civic Leadership",
+      "link": "https://www.gatech.edu/news/2026/04/07/dialogue-across-difference-launches-georgia-tech-institute-technology-and-civic"
+    },
+    {
+      "row": 41,
+      "date": "2026-04-24",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "Senate Appropriations / Senate SAA",
+      "stage": "Stated need",
+      "title": "POPVOX FY27 Senate Approps requests — casework liaison office, AI experimentation funding, $5M SAA training",
+      "link": "https://www.popvox.org/blog/senate-appropriations-requests-fy27"
+    },
+    {
+      "row": 42,
+      "date": "2026-04-24",
+      "sourceType": "Vendor",
+      "source": "Quorum",
+      "actor": "Vendor (Quorum)",
+      "stage": "Launched",
+      "title": "Quorum launches Candidate Data — 5,000+ candidate profiles for 2026 cycle",
+      "link": "https://www.quorum.us/company-news/2026-election-candidate-data/"
+    },
+    {
+      "row": 43,
+      "date": "2026-04-24",
+      "sourceType": "Civic org",
+      "source": "HillClimbers (Omar Awan, ex-CAO)",
+      "actor": "Civic-tech founder / staff transparency",
+      "stage": "Launched",
+      "title": "HillClimbers Index — comparative ranking of every congressional office's capacity, stability, and structure",
+      "link": "https://federalnewsnetwork.com/congress/2026/03/new-data-may-change-what-we-know-about-staffing-stability-and-capacity-on-capitol-hill/"
+    },
+    {
+      "row": 44,
+      "date": "2026-04-24",
+      "sourceType": "Substack / Civic org",
+      "source": "Voice/Mail (Anne Meeker, POPVOX)",
+      "actor": "Caseworker community / POPVOX",
+      "stage": "Stated need",
+      "title": "Casework and the Veil of Ignorance — caseworkers report systemic agency-side breakdown",
+      "link": "https://voicemailgov.substack.com/p/veil-of-ignorance"
+    },
+    {
+      "row": 45,
+      "date": "2026-04-24",
+      "sourceType": "Hill body",
+      "source": "House Appropriations (Leg Branch Subcommittee)",
+      "actor": "Institutional (House Approps)",
+      "stage": "In-flight build",
+      "title": "FY27 House Leg Branch subcommittee markup scheduled April 30, 2026",
+      "link": "https://appropriations.house.gov/fy27-information/fy27-markup-schedule"
+    },
+    {
+      "row": 46,
+      "date": "2026-04-24",
+      "sourceType": "Press / Community",
+      "source": "New Republic; Rolling Stone; PBS NewsHour; Washington Examiner",
+      "actor": "Constituents / Members",
+      "stage": "Stated need",
+      "title": "April 2026 GOP town halls erupt in chaos — pattern across multiple districts",
+      "link": "https://www.rollingstone.com/politics/politics-news/mike-lawler-town-hall-chaos-woman-removed-1235331885/"
+    },
+    {
+      "row": 47,
+      "date": "2026-04-25",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "POPVOX Foundation",
+      "stage": "Stated need",
+      "title": "C-TECH proposal — Congressional Capacity and Technology Office",
+      "link": "https://www.popvox.org/blog/c-tech"
+    },
+    {
+      "row": 48,
+      "date": "2026-04-25",
+      "sourceType": "Press",
+      "source": "Roll Call",
+      "actor": "Congressional caseworkers (House + Senate)",
+      "stage": "Stated need",
+      "title": "Iran war strains congressional casework — caseworkers describe State Department 'black hole'",
+      "link": "https://rollcall.com/2026/03/24/iran-war-strains-congressional-casework/"
+    },
+    {
+      "row": 49,
+      "date": "2026-04-25",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "POPVOX Foundation (Casework Navigator)",
+      "stage": "Launched",
+      "title": "Casework Navigator: Basics on supporting constituents in overseas crises",
+      "link": "https://www.popvox.org/blog/basics-on-supporting-constituents-in-overseas-crises"
+    },
+    {
+      "row": 50,
+      "date": "2026-04-25",
+      "sourceType": "Hill body",
+      "source": "Congressional Data Task Force",
+      "actor": "CDTF (LoC, GPO, Clerk, Sec. of Senate, House CAO)",
+      "stage": "In-flight build",
+      "title": "CDTF launches inventory of legislative-branch tech projects (Feb 2026 onward, contributions open)",
+      "link": "https://congressionaldata.org/2026-congressional-data-task-force-meeting-dates-announced/"
+    },
+    {
+      "row": 51,
+      "date": "2026-04-25",
+      "sourceType": "Hill body",
+      "source": "Congressional Data Task Force",
+      "actor": "CDTF",
+      "stage": "In-flight build",
+      "title": "2026 CDTF meeting cadence set: Mar 26, Jun 11, Dec 3 + Sept Hackathon",
+      "link": "https://congressionaldata.org/2026-congressional-data-task-force-meeting-dates-announced/"
+    },
+    {
+      "row": 52,
+      "date": "2026-04-25",
+      "sourceType": "Hill body",
+      "source": "Congressional Data Task Force",
+      "actor": "CDTF",
+      "stage": "Launched",
+      "title": "CDTF Q1 2026 meeting held March 20 at Capitol Visitor Center",
+      "link": "https://congressionaldata.org/"
+    },
+    {
+      "row": 53,
+      "date": "2026-04-25",
+      "sourceType": "Press",
+      "source": "MeriTalk",
+      "actor": "House-Senate Joint Economic Committee",
+      "stage": "Stated need",
+      "title": "JEC hearing brainstorms AI use cases for cutting fraud/waste in federal programs (April 9, 2026)",
+      "link": "https://www.meritalk.com/articles/hill-brainstorms-ai-use-cases-aimed-at-cutting-fraud-waste/"
+    },
+    {
+      "row": 54,
+      "date": "2026-04-25",
+      "sourceType": "Press",
+      "source": "Press Democrat / AP",
+      "actor": "Congressional subcommittee (unspecified, AI-focused)",
+      "stage": "Stated need",
+      "title": "Lawmakers gathered quietly to talk about AI — angst, fears followed (April 17, 2026)",
+      "link": "https://www.pressdemocrat.com/2026/04/17/congress-subcommittee-ai/"
+    },
+    {
+      "row": 55,
+      "date": "2026-04-25",
+      "sourceType": "Hill body",
+      "source": "Library of Congress (api.congress.gov ChangeLog)",
+      "actor": "Library of Congress / Congress.gov API team",
+      "stage": "Launched",
+      "title": "Congress.gov API April 27, 2026 production release — cosponsored legislation count excludes withdrawn cosponsorships + endpoint error-message fixes",
+      "link": "https://github.com/LibraryOfCongress/api.congress.gov/blob/main/ChangeLog.md"
+    },
+    {
+      "row": 56,
+      "date": "2026-04-25",
+      "sourceType": "Press",
+      "source": "democrats.org / The Hill / Colorado Politics",
+      "actor": "DNC / DCCC / ASDC + state Democratic parties",
+      "stage": "Launched",
+      "title": "People's Town Halls — 100 events across 45 states during April 2026 recess in GOP-held districts",
+      "link": "https://democrats.org/news/icymi-during-april-recess-dems-continue-to-host-peoples-town-halls-in-republican-districts-to-hold-trump-and-gop-representatives-accountable/"
+    },
+    {
+      "row": 57,
+      "date": "2026-04-25",
+      "sourceType": "Press",
+      "source": "Roll Call",
+      "actor": "Senate Appropriations Legislative Branch Subcommittee (Sen. Deb Fischer, R-NE, chair)",
+      "stage": "In-flight build",
+      "title": "Senate Approps Leg Branch FY27 hearing — Sen. Deb Fischer's first hearing as chair (GPO/GAO/CBO defend FY27 requests)",
+      "link": "https://rollcall.com/2026/04/16/legislative-branch-hearing-sidesteps-last-years-drama/"
+    },
+    {
+      "row": 58,
+      "date": "2026-04-25",
+      "sourceType": "Vendor",
+      "source": "Poets & Quants (2025 Most Disruptive MBA Startups: Civic, Wharton)",
+      "actor": "Civic / Revere (Jon Kokot)",
+      "stage": "Funded",
+      "title": "Civic (Revere) — $1M total raised incl. Analog Ventures, Flybridge, MBA Fund, four Wharton non-dilutive grants ($75K) — STAGE CHANGE from Piloted",
+      "link": "https://poetsandquants.com/2026/03/14/2025-most-disruptive-mba-startups-civic-wharton-school/?pq-category=students"
+    },
+    {
+      "row": 59,
+      "date": "2026-04-25",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "POPVOX Foundation / Casework Navigator (Anne Meeker) + Dave Rapallo (Georgetown Federal Legislation Clinic / former House Oversight Staff Director)",
+      "stage": "Launched",
+      "title": "Casework Navigator webinar: 'The Constitutional Basis for Casework' with Dave Rapallo (Mar 18, 2026)",
+      "link": "https://www.popvox.org/events/constitutional-basis-for-casework"
+    },
+    {
+      "row": 60,
+      "date": "2026-04-25",
+      "sourceType": "Civic org",
+      "source": "AAAS (American Association for the Advancement of Science) — Science & Technology Policy Fellowships",
+      "actor": "AAAS STPF / placement: Member personal offices + committee offices on the Hill",
+      "stage": "Launched",
+      "title": "AAAS STPF Legislative Branch Cohort in AI — applications open for Sept 2026 placement of AI-expert fellows in House/Senate offices",
+      "link": "https://www.aaas.org/ai-stpf-cohort"
+    },
+    {
+      "row": 61,
+      "date": "2026-04-25",
+      "sourceType": "Think tank",
+      "source": "Foundation for American Innovation (FAI) — Q1 2026 Quarterly Update",
+      "actor": "FAI / Tim Hwang + Josh Levine (Director of Technology and Statecraft)",
+      "stage": "Launched",
+      "title": "FAI Q1 2026 quarterly update: \"Data Crunch\" paper proposing a U.S. Data Accelerator + new Capitol Hill HQ + 9 new fellows/staff",
+      "link": "https://www.thefai.org/posts/quarterly-update-q1-2026"
+    },
+    {
+      "row": 62,
+      "date": "2026-04-26",
+      "sourceType": "Press",
+      "source": "Sen. Mark R. Warner (D-VA) press release / Sen. Bill Cassidy (R-LA) press release / Tax Notes / Ripon Advance",
+      "actor": "Sen. Mark Warner (D-VA) + Sen. Bill Cassidy (R-LA) — Senate Finance Committee",
+      "stage": "Bill introduced",
+      "title": "Improving IRS Customer Service Act of 2026 reintroduced (Apr 15, 2026) — wait-time dashboard, callback tech, expanded online accounts, hardship-collection alternatives",
+      "link": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-warner-introduce-bill-to-improve-irs-customer-service/"
+    },
+    {
+      "row": 63,
+      "date": "2026-04-26",
+      "sourceType": "Press",
+      "source": "Federal News Network (interview-format article + companion Morgan Lewis podcast)",
+      "actor": "Federal News Network / Morgan Lewis attorneys (Tinsley E. Smith + colleagues)",
+      "stage": "Stated need",
+      "title": "Federal News Network: 'Mounting congressional oversight means more agencies and orgs have more to explain' (April 2026) — midterm-year oversight surge with national-security framing",
+      "link": "https://federalnewsnetwork.com/congress/2026/04/mounting-congressional-oversight-means-more-agencies-and-orgs-have-more-to-explain/"
+    },
+    {
+      "row": 64,
+      "date": "2026-04-26",
+      "sourceType": "Hill institutional",
+      "source": "U.S. Government Accountability Office (GAO) — \"Your GAO\" video series",
+      "actor": "GAO / FEMA / House Oversight + Senate HSGAC",
+      "stage": "Launched",
+      "title": "GAO Apr 22, 2026 — third report in disaster-survivor series flags FEMA helpline long wait times as primary communication barrier",
+      "link": "https://www.gao.gov/video/your-gao-improving-femas-assistance-disaster-survivors"
+    },
+    {
+      "row": 65,
+      "date": "2026-04-26",
+      "sourceType": "Press",
+      "source": "Rep. Marlin Stutzman (R-IN) press release / Quiver Quantitative / Rep. Erin Houchin companion press release",
+      "actor": "Reps. Marlin Stutzman (R-IN-03) + Bill Foster (D-IL-11); House Financial Services + Senate Banking (recipient committees)",
+      "stage": "Bill introduced",
+      "title": "FUTURES Act (Apr 14, 2026) — Stutzman + Foster bipartisan bill mandates tech assessments at Fed, FDIC, OCC, CFPB, FHFA, NCUA, FinCEN with reports back to House Financial Services + Senate Banking",
+      "link": "https://stutzman.house.gov/media/press-releases/rep-stutzman-and-rep-foster-introduce-futures-act"
+    },
+    {
+      "row": 66,
+      "date": "2026-04-26",
+      "sourceType": "Press",
+      "source": "Axios / Issue One / federal LDA disclosures",
+      "actor": "Anthropic + OpenAI lobbyists; House + Senate offices (recipients)",
+      "stage": "Funded",
+      "title": "Anthropic outspends OpenAI on Q1 2026 federal lobbying ($1.6M vs $1M, both record-high) — topics include AI procurement, DoD procurement, supply chain risk, \"acceptable use policy\"",
+      "link": "https://www.axios.com/2026/04/21/anthropic-outspends-openai-biggest-lobbying-quarter"
+    },
+    {
+      "row": 67,
+      "date": "2026-04-26",
+      "sourceType": "Press",
+      "source": "NOTUS (News of the United States) / Schneier on Security / The Hill",
+      "actor": "Sen. Angus King (I-ME) + multiple Senate Democrats; Anthropic Claude (vendor)",
+      "stage": "Launched",
+      "title": "NOTUS (April 2026) — \"Lawmakers on Capitol Hill Are Learning to Love AI\": Sen. Angus King consults Claude on his phone during Energy Secretary hearing; 12+ Dem senators describe regular Claude use for memos, speeches, scheduling, research",
+      "link": "https://www.notus.org/congress/democrats-ai-claude-chatbot-trump-social-media-congress"
+    },
+    {
+      "row": 68,
+      "date": "2026-04-26",
+      "sourceType": "Press",
+      "source": "POLITICO (originally) / House Committee on Homeland Security ICYMI / Yahoo News / ThreatBeat",
+      "actor": "House Committee on Homeland Security + DHS NCITE (National Counterterrorism Innovation, Technology and Education Center); House lawmakers (audience)",
+      "stage": "Launched",
+      "title": "Apr 23, 2026 — DHS NCITE + House Homeland Security Committee host closed-door \"jailbroken AI\" demo for ALL House lawmakers — distinguishes \"censored\" (Claude/ChatGPT) from \"abliterated\" (refusal-removed) models",
+      "link": "https://homeland.house.gov/2026/04/24/icymi-politico-house-lawmakers-get-a-chilling-demo-of-jailbroken-ai/"
+    },
+    {
+      "row": 69,
+      "date": "2026-04-27",
+      "sourceType": "Press",
+      "source": "The Well News / Roll Call",
+      "actor": "House Subcommittee on Modernization & Innovation (Chair Stephanie Bice) + House Sergeant-at-Arms",
+      "stage": "In-flight build",
+      "title": "House M&I 'wayfinding' plan advances — geofenced app + digital signage at Cannon/Longworth/Rayburn entrances",
+      "link": "https://www.thewellnews.com/congress/panel-advances-plan-for-making-house-office-buildings-easier-to-navigate/"
+    },
+    {
+      "row": 70,
+      "date": "2026-04-27",
+      "sourceType": "Hill body",
+      "source": "U.S. House Committee on Oversight and Government Reform",
+      "actor": "Chairman James Comer + House Oversight Committee",
+      "stage": "Bill introduced",
+      "title": "Oversight Apr 29, 2026 markup — fraud/improper-payments package (TRUE Accountability, Stopping Fraudulent Payments, Pre-Payment Fraud Prevention + Treasury Data Access, Timely & Accurate Benefits)",
+      "link": "https://oversight.house.gov/release/comer-announces-full-committee-markup-of-legislation-to-protect-taxpayer-dollars-and-root-out-rampant-fraud-in-federal-programs/"
+    },
+    {
+      "row": 71,
+      "date": "2026-04-27",
+      "sourceType": "Hill body",
+      "source": "Rep. Jay Obernolte press release / Ripon Advance / Quiver Quantitative",
+      "actor": "Rep. Jay Obernolte (R-CA-23) + Rep. Sara Jacobs (D-CA-51); Senate companion Sens. Mark Warner (D-VA) + Mike Rounds (R-SD)",
+      "stage": "Bill introduced",
+      "title": "Economy of the Future Commission Act of 2026 — bipartisan/bicameral AI commission with 7-mo interim + 13-mo final reports",
+      "link": "https://obernolte.house.gov/media/press-releases/rep-obernolte-rep-jacobs-introduce-bipartisan-bill-prepare-american-workers-ai"
+    },
+    {
+      "row": 72,
+      "date": "2026-04-27",
+      "sourceType": "Hill body",
+      "source": "Bloomberg Government (BGOV) — Senate Sergeant-at-Arms Jennifer Hemingway briefing",
+      "actor": "Senate Sergeant-at-Arms (Jennifer Hemingway); Senate cybersecurity staff",
+      "stage": "In-flight build",
+      "title": "Senate SAA Hemingway: cybersecurity staff reviewing ~40 AI tools for Senate-side use; Claude tops the request list (briefing Apr 23, 2026)",
+      "link": "https://news.bgov.com/bloomberg-government-news/senate-staff-clamor-for-access-to-anthropics-claude-chatbot"
+    },
+    {
+      "row": 73,
+      "date": "2026-04-27",
+      "sourceType": "Vendor",
+      "source": "FiscalNote press release / Yahoo Finance / Morningstar / Las Vegas Sun",
+      "actor": "FiscalNote (vendor) + VoterVoice; advocacy organizations / lobbyists / grassroots platforms (recipients of API)",
+      "stage": "Launched",
+      "title": "FiscalNote expands PolicyNote API with VoterVoice address-to-district matching — programmatic district resolution available API-only for first time",
+      "link": "https://fiscalnote.com/newsroom/policynote-api-with-district-matching-capability"
+    },
+    {
+      "row": 74,
+      "date": "2026-04-27",
+      "sourceType": "Hill body",
+      "source": "House Appropriations Subcommittee on the Legislative Branch (Mar 6, 2026 hearing) / FBF",
+      "actor": "Institutional (LoC/CRS)",
+      "stage": "Stated need",
+      "title": "Library of Congress requests $5.4M for centralized AI enterprise platform for CRS (FY27)",
+      "link": "https://firstbranchforecast.substack.com/p/the-library-of-congress-wants-to"
+    },
+    {
+      "row": 75,
+      "date": "2026-04-27",
+      "sourceType": "Civic org",
+      "source": "American Governance Institute + Foundation for American Innovation",
+      "actor": "Civic-tech advocates",
+      "stage": "Launched",
+      "title": "The Appropriations Playbook: How Policy Entrepreneurs Advance Proposals into Law (Schuman + Dayton, March 2026)",
+      "link": "https://www.thefai.org/posts/the-appropriations-playbook-how-policy-entrepreneurs-advance-proposals-into-law"
+    },
+    {
+      "row": 76,
+      "date": "2026-04-28",
+      "sourceType": "Press",
+      "source": "Axios (Eleanor Hawkins) / Penta Group (proprietary survey)",
+      "actor": "Federal policymakers + senior staff (Hill, executive, agencies); Penta Group as research vendor",
+      "stage": "Launched",
+      "title": "Penta Group survey: 27% of US federal policymakers say AI informs their perspective (up from 17% in 2025); 60% use AI daily",
+      "link": "https://www.axios.com/2026/04/23/ai-use-surge-policymakers-report"
+    },
+    {
+      "row": 77,
+      "date": "2026-04-28",
+      "sourceType": "Hill body",
+      "source": "Congressional Budget Office",
+      "actor": "Institutional (CBO)",
+      "stage": "Launched",
+      "title": "CBO publishes 'Transparency at CBO: Plans for 2026 and a Review of 2025' — modeling tools, source code, and technical documentation across 6 topic areas",
+      "link": "https://www.cbo.gov/publication/61968"
+    },
+    {
+      "row": 78,
+      "date": "2026-04-28",
+      "sourceType": "Hill body",
+      "source": "First Branch Forecast (Chris Nehls, AGI) / CAO House",
+      "actor": "Institutional (CAO House)",
+      "stage": "Launched",
+      "title": "CAO publishes new vendor-onboarding guidance for House technology services — implementing Select Committee on Modernization recommendation",
+      "link": "https://firstbranchforecast.substack.com/p/leveling-up-congressional-modernization"
+    },
+    {
+      "row": 79,
+      "date": "2026-04-28",
+      "sourceType": "Hill body",
+      "source": "Library of Congress / Congress.gov FY26 annual report (via FBF Apr 2026)",
+      "actor": "Institutional (LoC / Congress.gov team)",
+      "stage": "Launched",
+      "title": "Congress.gov FY26 annual report — 82M visits / 176M pageviews FY25; FY26 priorities include Senate committee integration + House Rules amendments on member profile pages",
+      "link": "https://firstbranchforecast.substack.com/p/leveling-up-congressional-modernization"
+    },
+    {
+      "row": 80,
+      "date": "2026-04-29",
+      "sourceType": "Press",
+      "source": "Roll Call (Apr 28, 2026)",
+      "actor": "Hill staff (Zach Florman, comms director, Rep. Laura Friedman D-CA)",
+      "stage": "Launched",
+      "title": "The Capitol Wire — staffer-built bot for real-time House floor monitoring + AI bill summaries",
+      "link": "https://rollcall.com/2026/04/28/congress-has-been-slow-on-ai-this-staffer-tried-his-own-thing/"
+    },
+    {
+      "row": 81,
+      "date": "2026-04-29",
+      "sourceType": "Civic org",
+      "source": "First Branch Forecast (Chris Nehls + Daniel Schuman, AGI)",
+      "actor": "Civic org analysis (AGI/FBF) on House Approps Leg Branch FY27",
+      "stage": "Stated need",
+      "title": "FBF 'Power Outages' (Apr 28, 2026) — FY27 Leg Branch top line is too low; 'fire trap' framing on Hill physical + capacity infrastructure",
+      "link": "https://firstbranchforecast.substack.com/p/power-outages"
+    },
+    {
+      "row": 82,
+      "date": "2026-04-29",
+      "sourceType": "Hill institutional",
+      "source": "U.S. Government Accountability Office (GAO-26-108694) / Government Executive / Nextgov / Federal News Network",
+      "actor": "GAO (Comptroller General Gene Dodaro) reporting to Congress (Oversight, Approps, Senate HSGAC)",
+      "stage": "Launched",
+      "title": "GAO-26-108694 Payment Integrity report (Apr 27, 2026) — agencies estimated $186B in FY25 improper payments (up $24B from FY24); 82% overpayments; Medicare+Medicaid = $94B; 9 of 10 March 2022 recommendations to Congress still open",
+      "link": "https://www.gao.gov/products/gao-26-108694"
+    },
+    {
+      "row": 83,
+      "date": "2026-04-29",
+      "sourceType": "Hill institutional",
+      "source": "GovInfo April 2026 Release Notes (U.S. Government Publishing Office)",
+      "actor": "GPO / govinfo.gov product team",
+      "stage": "Launched",
+      "title": "GovInfo April 2026 release — full historical Statutes at Large now available in USLM XML (1789–present); U.S. Reports full coverage; new bill-to-hearings linkage; search clear button",
+      "link": "https://www.govinfo.gov/features/april-2026-release-notes"
+    },
+    {
+      "row": 84,
+      "date": "2026-04-29",
+      "sourceType": "Hill institutional",
+      "source": "House Committee on Appropriations (Republicans) — Apr 2026 press release + FY27 bill text/report",
+      "actor": "Institutional (House Approps Leg Branch Subcommittee, Chair Tom Cole)",
+      "stage": "Bill introduced",
+      "title": "FY27 House Leg Branch Approps bill text + committee report released — $7.3B total ($42.5M above FY26, $1.2B below request); committee report explicitly recognizes Case Compass + cites LLM potential for CRS/GAO/CBO",
+      "link": "https://appropriations.house.gov/news/press-releases/committee-releases-fy27-legislative-branch-appropriations-bill"
+    },
+    {
+      "row": 85,
+      "date": "2026-04-29",
+      "sourceType": "Hill body",
+      "source": "U.S. House Committee on Oversight and Government Reform",
+      "actor": "Chairman James Comer + House Oversight Committee",
+      "stage": "In-flight build",
+      "title": "House Oversight Apr 29 markup wrap-up — committee ADVANCED fraud/improper-payments package (HR 8463/8464/8466/8428/8340) out of committee (stage_change vs row 68)",
+      "link": "https://oversight.house.gov/release/markup-wrap-up-oversight-committee-advances-legislation-to-protect-american-taxpayers-and-strengthen-government-transparency/"
+    },
+    {
+      "row": 86,
+      "date": "2026-04-29",
+      "sourceType": "Hill body",
+      "source": "lda.senate.gov / lda.gov / Office of the Clerk + Secretary of the Senate",
+      "actor": "House Clerk + Secretary of the Senate (joint LDA modernization)",
+      "stage": "In-flight build",
+      "title": "Lobbying Disclosure portal consolidation — lda.senate.gov retiring 6/30/2026, unified LDA.gov + REST API takes over; House Clerk's LDA modernization (incl. unique lobbyist IDs) targeted for May 2026 completion",
+      "link": "https://congressionaldata.org/the-house-clerks-technology-project-timelines/"
+    },
+    {
+      "row": 87,
+      "date": "2026-04-30",
+      "sourceType": "Bill",
+      "source": "Rep. Ted Lieu (D-CA) + Rep. Jay Obernolte (R-CA)",
+      "actor": "Former co-chairs of Bipartisan House AI Task Force",
+      "stage": "Bill introduced",
+      "title": "American Leadership in AI Act — consolidated 20+ bipartisan AI proposals incl. Title III on federal AI procurement modernization (Lieu/Obernolte, Apr 28, 2026)",
+      "link": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-obernolte-introduce-bipartisan-bill-advance-american"
+    },
+    {
+      "row": 88,
+      "date": "2026-04-30",
+      "sourceType": "Substack",
+      "source": "Casework Navigator (Anne Meeker / POPVOX Foundation)",
+      "actor": "Caseworker community + POPVOX Foundation",
+      "stage": "Stated need",
+      "title": "Casework Navigator: 'Sometimes, it's okay to laugh' (Apr 29, 2026) — caseworkers report systemic delays at CFPB, HHS (DOGE manual review), and looming end of IRS DirectFile",
+      "link": "https://www.popvox.org/case-notes/newsletter-250429"
+    },
+    {
+      "row": 89,
+      "date": "2026-04-30",
+      "sourceType": "Hill body",
+      "source": "Library of Congress / Congress.gov",
+      "actor": "Library of Congress (Congress.gov product team)",
+      "stage": "Launched",
+      "title": "Congress.gov April 2026 Part 2 enhancements — Senator leadership titles surfaced on Committee Assignments tab + USLM copy-link icon for in-text deep links to public-law text",
+      "link": "https://content.govdelivery.com/accounts/USLOC/bulletins/413de99"
+    },
+    {
+      "row": 90,
+      "date": "2026-04-30",
+      "sourceType": "Community / GitHub",
+      "source": "GitHub (multiple indie repos: bsmi021/mcp-congress_gov_server, amurshak/congressMCP, JamesANZ/us-legal-mcp, cbwinslow/opendiscourse_mcp)",
+      "actor": "Indie developers building MCP-server bridges between AI agents and Congress.gov / GovInfo APIs",
+      "stage": "Launched",
+      "title": "Indie-built Model Context Protocol (MCP) servers for Congress.gov + GovInfo APIs proliferating on GitHub — at least 4 distinct repos let Claude/ChatGPT query bills, members, committees, hearings, CRS reports via natural language",
+      "link": "https://github.com/amurshak/congressMCP"
+    },
+    {
+      "row": 91,
+      "date": "2026-05-01",
+      "sourceType": "Press",
+      "source": "Federal News Network (Drew Friedman, Apr 30 2026) / Bloomberg Government / House Approps Democrats press release",
+      "actor": "House Approps GOP majority (cuts) vs House Approps Democrats / GAO",
+      "stage": "Bill introduced",
+      "title": "FY27 House Leg Branch bill cuts GAO budget 25% — Comptroller General would have to cut ~1,000 employees from Congress's lead oversight watchdog",
+      "link": "https://federalnewsnetwork.com/agency-oversight/2026/04/gao-would-need-to-cut-1000-employees-under-house-bill/"
+    },
+    {
+      "row": 92,
+      "date": "2026-05-01",
+      "sourceType": "Hill body",
+      "source": "House Oversight & Government Reform Committee (Comer) Apr 29, 2026 markup wrap-up #2",
+      "actor": "House Oversight Committee (Comer) + Reps. Mace (R-SC), Brown (D-OH)",
+      "stage": "In-flight build",
+      "title": "House Oversight advances MGT Reform Act (HR 2985) + federal procurement modernization package — bill mandates each agency build a legacy IT inventory as a NEW oversight tool for Congress",
+      "link": "https://oversight.house.gov/release/markup-wrap-up-oversight-committee-advances-legislation-to-modernize-and-streamline-federal-procurement-and-operations/"
+    },
+    {
+      "row": 93,
+      "date": "2026-05-01",
+      "sourceType": "Press",
+      "source": "Axios (Apr 28, 2026) + The CyberWire + CNN Business",
+      "actor": "OpenAI + Anthropic + House Homeland Security Committee staff",
+      "stage": "Launched",
+      "title": "OpenAI + Anthropic separately brief House Homeland Security Committee staff on cyber-capable frontier models (OpenAI GPT-5.4-Cyber + Anthropic Mythos Preview) — first vendor-Hill cyber capability briefings",
+      "link": "https://www.axios.com/2026/04/28/openai-anthropic-congress-cyber-briefings"
+    },
+    {
+      "row": 94,
+      "date": "2026-05-01",
+      "sourceType": "Civic org",
+      "source": "First Branch Forecast (Schuman + Nehls)",
+      "actor": "Daniel Schuman (American Governance Institute) + Chris Nehls; House Approps; GAO",
+      "stage": "Stated need",
+      "title": "FBF 'There They Go Again: House Approps Proposes to Starve Congress' (Schuman/Nehls, late Apr 2026) — quantifies FY27 GAO cut at $662.2M (-20.8% YoY in real terms / -$174M nominal); cites $62.7B FY25 GAO benefits + $1.51T since 2002; advocacy frame for May 13-14 full-committee markup amendments",
+      "link": "https://firstbranchforecast.substack.com/p/there-they-go-again-house-approps"
+    },
+    {
+      "row": 95,
+      "date": "2026-05-02",
+      "sourceType": "Vendor",
+      "source": "Anthropic news (anthropic.com/news, May 2 2026) + The Hill (Apr 28) + FedScoop (Apr) + CSO Online + Bloomberg Government",
+      "actor": "Anthropic + GSA + all three branches of US government (legislative branch approval pending)",
+      "stage": "Launched",
+      "title": "Anthropic offers Claude for Enterprise + Claude for Government to ALL THREE BRANCHES for $1/year (1-yr term) — explicitly extends offer to legislative + judicial branches, approval pending; outflanks OpenAI's executive-only $1 offer",
+      "link": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government"
+    },
+    {
+      "row": 96,
+      "date": "2026-05-02",
+      "sourceType": "Press",
+      "source": "NOTUS (News of the United States) — undated 2026 piece \"The House Is Trying to Make Congressional Jobs Easier With AI\"",
+      "actor": "House CAO + House offices receiving Microsoft Copilot licenses; CAO-set system prompt; opt-in offices",
+      "stage": "Launched",
+      "title": "NOTUS reports House 6,000 Microsoft Copilot license rollout (begun 2026) — but CAO-set system prompt REFUSES political content / policy positions / summaries of political stances, which offices say limits the tool's usefulness for constituent correspondence + Member statements",
+      "link": "https://www.notus.org/congress/house-congressional-jobs-easier-ai"
+    },
+    {
+      "row": 97,
+      "date": "2026-05-02",
+      "sourceType": "Press",
+      "source": "FedScoop (Apr 29, 2026) — Reps. Maxwell Frost (D), William Timmons (R), Eric Burlison (R), Byron Donalds (R)",
+      "actor": "Bipartisan House sponsors (Frost/Timmons/Burlison/Donalds); agency CIOs; agency heads",
+      "stage": "Bill introduced",
+      "title": "Legacy IT Reduction Act of 2026 (H.R. 8408) — bipartisan bill requires agency CIOs to inventory legacy IT systems + agency heads to publish 2-year information-resource-management strategic plans for retirement/modernization/disposal",
+      "link": "https://fedscoop.com/house-bill-reduce-legacy-it-systems-agencies/"
+    },
+    {
+      "row": 98,
+      "date": "2026-05-02",
+      "sourceType": "Press",
+      "source": "Roll Call (Apr 28, 2026, Florman/Capitol Wire piece) — Senate Sergeant at Arms Jennifer Hemingway, FY27 SAA budget request",
+      "actor": "Senate Sergeant at Arms (Jennifer Hemingway); Senate offices; AI vendors competing for approval",
+      "stage": "Bill introduced",
+      "title": "Senate SAA FY27 budget request includes $2.8M dedicated line for AI licenses for Senate employees — first time AI procurement appears as a discrete budgeted line in the SAA request (per Roll Call Apr 28)",
+      "link": "https://rollcall.com/2026/04/28/congress-has-been-slow-on-ai-this-staffer-tried-his-own-thing/"
+    },
+    {
+      "row": 99,
+      "date": "2026-05-02",
+      "sourceType": "Think tank",
+      "source": "Bipartisan Policy Center (Feb 25, 2026 article \"Listening Is Governing\") + Reboot Democracy / Beth Noveck (rebootdemocracy.ai blog + Dec 2025 M&I hearing testimony)",
+      "actor": "BPC; Beth Simone Noveck (Reboot Democracy / NYU); House M&I Subcommittee; CAO CaseCompass team",
+      "stage": "In-flight build",
+      "title": "BPC 'Listening Is Governing' (Feb 25 2026) + Noveck/Reboot Democracy track — sustained think-tank advocacy for treating AI-assisted constituent engagement as the core institutional competency Congress is rebuilding; cites CAO CaseCompass + Brazil Senate AI question-clustering precedent",
+      "link": "https://bipartisanpolicy.org/article/listening-is-governing-modernizing-congresss-public-interface/"
+    },
+    {
+      "row": 100,
+      "date": "2026-05-03",
+      "sourceType": "Hill institutional",
+      "source": "House Appropriations Committee (Cole/Valadao)",
+      "actor": "House Appropriations Full Committee",
+      "stage": "In-flight build",
+      "title": "FY27 House Leg Branch bill — Full Committee markup scheduled May 13, 2026 11AM @ 2359 RHOB (continuation May 14 if needed) [stage_change vs row 65 subcom-markup]",
+      "link": "https://appropriations.house.gov/news/press-releases/cole-releases-fiscal-year-2027-markup-schedule"
+    },
+    {
+      "row": 101,
+      "date": "2026-05-03",
+      "sourceType": "Press",
+      "source": "Federal News Network / Crowell & Moring / White House",
+      "actor": "OMB (executive) — with downstream Hill oversight implications",
+      "stage": "Launched",
+      "title": "OMB Memo M-26-10 \"Reinforcing Transparency, Accountability, and Oversight of Federal Technology\" — monthly CIO IT-contract reports to OMB begin May 2026; vendor pricing/utilization disclosure mandated in solicitations after Mar 31, 2026 (through Oct 2026)",
+      "link": "https://www.whitehouse.gov/wp-content/uploads/2026/03/M-26-10-Reinforcing-Transparency-Accountability-and-Oversight-of-Federal-Technology.pdf"
+    },
+    {
+      "row": 102,
+      "date": "2026-05-04",
+      "sourceType": "Press / GAO",
+      "source": "FedScoop + Federal News Network + Government Executive (Apr 28-29, 2026); GAO Treasury audit re: DOGE access to Bureau of Fiscal Service payment systems",
+      "actor": "GAO; Treasury Bureau of Fiscal Service; House Oversight + Senate Banking minority (Warren, Wyden); 'DOGE associate' (Elez)",
+      "stage": "Launched",
+      "title": "GAO finds Treasury gave DOGE associate atypical access to federal payment systems without security training; FedNewsNet calls it 'just the tip of the iceberg' — more DOGE-access audits in progress",
+      "link": "https://federalnewsnetwork.com/agency-oversight/2026/04/gao-report-on-doge-payments-access-just-the-tip-of-the-iceberg/"
+    },
+    {
+      "row": 103,
+      "date": "2026-05-04",
+      "sourceType": "Press / White House",
+      "source": "The New York Report (May 1, 2026) covering Sunday Briefing interview with OSTP Director Michael Kratsios on the National Policy Framework for AI",
+      "actor": "OSTP Director Michael Kratsios; Special Advisor for AI/Crypto David Sacks; Congress (recipient)",
+      "stage": "Stated need",
+      "title": "Kratsios uses Sunday Briefing (May 1, 2026) to push WH National AI Policy Framework agenda to Congress — 27 recommendations across 7 policy areas, federal preemption of state AI laws, baseline transparency/testing standards",
+      "link": "https://www.nyreport.com/2026/05/01/white-house-outlines-ai-plan-for-congress/"
+    },
+    {
+      "row": 104,
+      "date": "2026-05-04",
+      "sourceType": "Press / Bill introduction",
+      "source": "Nextgov/FCW 'Tech bills of the week' (Apr 2026) + Foushee press release + Quiver Quantitative",
+      "actor": "Reps. Valerie Foushee (D-NC), Don Beyer (D-VA), James Moylan (R-Guam); NIST",
+      "stage": "Bill introduced",
+      "title": "Protecting Consumers from Deceptive AI Act (Apr 24, 2026) — bipartisan bill directing NIST to set technical standards for AI-generated content provenance: digital watermarking, fingerprinting, metadata labeling for audio/visual",
+      "link": "https://foushee.house.gov/media/press-releases/reps-foushee-beyer-and-moylan-introduce-the-protecting-consumers-from-deceptive-ai-act-to-establish-accountability-and-transparency-standards-for-generative-ai"
+    },
+    {
+      "row": 105,
+      "date": "2026-05-04",
+      "sourceType": "Civic org / Think tank",
+      "source": "Reboot Democracy + InnovateUS + GovLab + Allen Lab for Democracy Renovation (Beth Noveck, Dane Gambrell)",
+      "actor": "Beth Simone Noveck (Reboot Democracy/GovLab); Dane Gambrell; InnovateUS workshop series",
+      "stage": "Launched",
+      "title": "'Designing Democratic Engagement for the AI Era' free online course (InnovateUS + GovLab + Allen Lab) — interactive case studies + skill-building exercises for public officials on AI-assisted constituent engagement",
+      "link": "https://rebootdemocracy.ai/blog/from-voice-to-impact-what-weve-learned-so-far-in-the-reboot-democracy-workshop-series-designing-democratic-engagement-for-the-ai-era"
+    },
+    {
+      "row": 106,
+      "date": "2026-05-04",
+      "sourceType": "Press",
+      "source": "FedScoop / Schweikert / Govexec / Nextgov",
+      "actor": "House (Ways & Means — Schweikert AZ-01); Smith chair",
+      "stage": "Bill introduced",
+      "title": "House passes IRS modernization package (Apr 27, 2026) — Taxpayer Experience Improvement Act (H.R. 7971, Schweikert) mandates real-time IRS public dashboard of call wait-times/backlog + callback tech + expanded online accounts; BARCODE Efficiency Act (H.R. 6956) requires scannable codes + OCR on paper returns",
+      "link": "https://fedscoop.com/house-passes-irs-tech-bills-barcode-act-taxpayer-improvement/"
+    },
+    {
+      "row": 107,
+      "date": "2026-05-05",
+      "sourceType": "Civic org / Substack",
+      "source": "First Branch Forecast (Chris Nehls, May 4, 2026)",
+      "actor": "House Appropriations Full Committee; Rep. Steny Hoyer (D, ranking on Leg Branch subcom); GAO; FBF (Nehls/Schuman)",
+      "stage": "In-flight build",
+      "title": "First Branch Forecast 'The Umpire Strikes Back' (Nehls, May 4 2026) — FBF analytical preview of FY27 Leg Branch full-committee markup (May 13); reports Hoyer plans to offer COLA amendment striking the pay-cap section, frames the $200M GAO cut + impoundment-authority-language as the central oversight-capacity fight [stage_change vs row 92]",
+      "link": "https://firstbranchforecast.substack.com/p/do-or-do-not"
+    },
+    {
+      "row": 108,
+      "date": "2026-05-05",
+      "sourceType": "Vendor",
+      "source": "FiscalNote / StockTitan / Nasdaq investor relations (Apr 30, 2026 announcement)",
+      "actor": "FiscalNote Holdings, Inc. (NYSE: NOTE) — incl. Fireside (House CMS subsidiary), VoterVoice (advocacy/grassroots), PolicyNote (API)",
+      "stage": "Stated need",
+      "title": "FiscalNote sets Q1 2026 earnings call for May 7, 2026 (after market close) — vendor radar trigger to capture roadmap/guidance signal on Fireside (House CMS), PolicyNote API, and federal/Hill exposure",
+      "link": "https://www.stocktitan.net/news/NOTE/fiscal-note-to-report-first-quarter-financial-results-host-ndadazhf6sro.html"
+    },
+    {
+      "row": 109,
+      "date": "2026-05-05",
+      "sourceType": "Hill body / Press release",
+      "source": "Committee on House Administration — Subcommittee on Modernization and Innovation (Bice OK-05 chair, Torres CA-35 ranking) — May 4, 2026 cha.house.gov press release",
+      "actor": "Subcommittee on Modernization & Innovation; CAO / House Digital Service (likely build owner); Member offices using Service Academy Nomination workflow",
+      "stage": "Stated need",
+      "title": "House M&I Subcommittee requests MIA funding for a Service Academy Nomination Portal and Dashboard (May 4, 2026) — third documented MIA modernization request in 2026 alongside FY26 CEIP (Constituent Engagement Innovation Project) [row 0/96-area] and FlagTrack 2.0 [rows 5, 32]; would standardize and digitize the cross-Member Service Academy nomination workflow currently run as ad-hoc PDF forms per office",
+      "link": "https://cha.house.gov/press-releases"
+    },
+    {
+      "row": 110,
+      "date": "2026-05-06",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation",
+      "actor": "POPVOX + Foundation for American Innovation + Niskanen Center + Partnership for Public Service + Democracy Forward",
+      "stage": "Launched",
+      "title": "POPVOX 'Departure Dialogues' report — coalition-published findings from departing federal employees on where Congressional intent breaks down; uses Talk-to-the-City AI to analyze hundreds of open-ended responses; Cannon 330 staff briefing held May 5, 2026",
+      "link": "https://www.popvox.org/blog/departure-dialogues-report"
+    },
+    {
+      "row": 111,
+      "date": "2026-05-07",
+      "sourceType": "Civic org / Press",
+      "source": "American Innovation Project (AIP) own announcement (americaninnovationproject.org/post/aip-launches-fellowship-...) + CoinDesk May 5, 2026 (coindesk.com/policy/2026/05/05/american-innovation-project-expands-team-with-tech-crypto-savvy-graduates) + The Block (theblock.co/post/387291)",
+      "actor": "American Innovation Project (AIP) — crypto-funded 501(c)(3); funders incl. Coinbase, a16z, Kraken, Paradigm, National Cryptocurrency Association, Solana Policy Institute, Digital Currency Group; House Financial Services + Agriculture Committee offices (placement targets); first-cohort fellows Jacob Smagula + Hugo Swangstu",
+      "stage": "Launched",
+      "title": "AIP launches Congressional Innovation Fellowship for Tech-Fluent Hill Staff (May 5, 2026) — crypto-industry-funded year-long fellowship placing recent grads in House Financial Services + Agriculture Committee offices after a multi-week virtual curriculum on crypto/AI/biotech/defense tech; first two fellows already named (Jacob Smagula, Hugo Swangstu) — second tech-Hill talent-pipeline program in 2026 alongside TechCongress (row 23, Apr 23 cohort) and structurally distinct: AIP is industry-funded, sector-narrow (crypto/Financial Services), and overtly aligned with sector legislation",
+      "link": "https://www.americaninnovationproject.org/post/aip-launches-fellowship-to-build-next-generation-of-tech-fluent-congressional-staff"
+    },
+    {
+      "row": 112,
+      "date": "2026-05-08",
+      "sourceType": "Vendor",
+      "source": "FiscalNote BusinessWire (May 7, 2026, 7:22 PM ET) + investors.fiscalnote.com Q1 2026 earnings call",
+      "actor": "FiscalNote (NYSE: NOTE) — CEO Tim Hwang, CFO Jon Slabaugh; PolicyNote / Fireside / PolicyNote API",
+      "stage": "Launched",
+      "title": "FiscalNote Q1 2026 results delivered (May 7, 2026) — $20.0M revenue + $1.0M Adj EBITDA both met guidance; PolicyNote engagement +250% legislation views and +88% alerts vs. legacy; agentic API showing 'strong demand' + initial enterprise wins",
+      "link": "https://www.businesswire.com/news/home/20260507192210/en/FiscalNote-Reports-First-Quarter-2026-Financial-Results"
+    },
+    {
+      "row": 113,
+      "date": "2026-05-08",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation (Digital Parliaments Project blog)",
+      "actor": "Civic-org build (POPVOX DPP team)",
+      "stage": "Launched",
+      "title": "POPVOX 'Building the Future of Parliaments, Together: DPP 2026 Q1 Convening Progress Report' — ParlLink open-source legislative-data platform extends to first DPP partner (Belize National Assembly), 2026 plans include AI-integrated transcription + global cohort expansion",
+      "link": "https://www.popvox.org/blog/building-the-future-of-parliaments-together"
+    },
+    {
+      "row": 114,
+      "date": "2026-05-08",
+      "sourceType": "Press",
+      "source": "Government Executive / Nextgov-FCW (May 5, 2026)",
+      "actor": "Executive branch — White House policy drafting",
+      "stage": "Stated need",
+      "title": "WH circulates draft policy language clarifying government control over how its acquired AI/tech is used (May 5, 2026)",
+      "link": "https://www.govexec.com/technology/2026/05/trump-admin-floats-policy-language-limiting-contractor-say-agency-uses-technology/413365/"
+    },
+    {
+      "row": 115,
+      "date": "2026-05-09",
+      "sourceType": "press / think tank op-ed",
+      "source": "AEI op-ed (Kevin R. Kosar + Rep. Stephanie Bice, May 4, 2026) + Washington Examiner premium (May 8, 2026, 7:21am ET)",
+      "actor": "House M&I Subcommittee (Bice OK-05 chair, Carey OH, Torres CA-35, Morelle NY); AEI scholar Kevin R. Kosar",
+      "stage": "In-flight build",
+      "title": "Kosar + Bice co-author public-facing op-ed on House Modernization Subcommittee AI/upgrades rollout (May 4 AEI / May 8 Washington Examiner)",
+      "link": "https://www.aei.org/op-eds/rep-stephanie-bice-and-the-modernization-subcommittee-are-rolling-out-ai-and-upgrades/"
+    },
+    {
+      "row": 116,
+      "date": "2026-05-09",
+      "sourceType": "Hill institutional",
+      "source": "House Committee on Appropriations - Republicans (appropriations.house.gov/fy27-information/fy27-markup-schedule + /schedule)",
+      "actor": "House Committee on Appropriations / Cole (Chair) / Valadao (LegBranch Subcom Chair)",
+      "stage": "In-flight build",
+      "title": "FY27 House Leg Branch full-committee markup rescheduled to Wednesday May 20, 2026 10AM @ 2359 RHOB (paired with FY27 Energy & Water bill) [stage_change vs row 98 May 13 datetime] — bill text already public; final markup window pushes Hoyer COLA-amendment fight + $200M GAO cut + impoundment-authority oversight-capacity fight to week-of-May-18",
+      "link": "https://appropriations.house.gov/fy27-information/fy27-markup-schedule"
+    },
+    {
+      "row": 117,
+      "date": "2026-05-09",
+      "sourceType": "Press",
+      "source": "Punchbowl News Canvass (May 4, 2026) — punchbowl.news/article/tech/capitol-hill-ai-framework/ + /article/most-top-hill-staffers-doubt-ai-legislation-will-happen-this-year/",
+      "actor": "Senior Capitol Hill staffers (Punchbowl Canvass survey panel)",
+      "stage": "Stated need",
+      "title": "Punchbowl Canvass survey (May 4, 2026): 0% of senior Capitol Hill staffers say it's 'very likely' Congress passes a federal AI framework by end of 2026; 86% (D + R combined) say it's 'unlikely' before 2027 — the Canvass panel's most bearish-on-Hill-AI-capacity reading to date",
+      "link": "https://punchbowl.news/article/tech/capitol-hill-ai-framework/"
+    },
+    {
+      "row": 118,
+      "date": "2026-05-09",
+      "sourceType": "Hill institutional / Civic orgs",
+      "source": "Rep. Gottheimer press release (gottheimer.house.gov/posts/release-ai-commission-co-chairs-lieu-foushee-gottheimer-travel-to-californias-bay-area-on-fact-finding-mission, ~May 7-8 2026 per 'about 1 day ago' metadata pulled May 9, 2026 PM ET) + parallel coverage on lieu.house.gov",
+      "actor": "House Democratic Commission on AI and the Innovation Economy — Co-Chairs Rep. Ted Lieu (CA-36), Rep. Valerie Foushee (NC-04), Rep. Josh Gottheimer (NJ-05)",
+      "stage": "In-flight build",
+      "title": "House Democratic AI Commission Co-Chairs Lieu/Foushee/Gottheimer travel to Bay Area for two-day fact-finding mission (~May 5-6, 2026) — convene with academics, scientists, labor experts, startup founders, state officials to build Commission expertise on AI/innovation-economy policy",
+      "link": "https://gottheimer.house.gov/posts/release-ai-commission-co-chairs-lieu-foushee-gottheimer-travel-to-californias-bay-area-on-fact-finding-mission"
+    },
+    {
+      "row": 119,
+      "date": "2026-05-10",
+      "sourceType": "Hill institutional",
+      "source": "Senate Appropriations Committee — Legislative Branch Subcommittee (appropriations.senate.gov/hearings)",
+      "actor": "Senate Appropriations Legislative Branch Subcommittee — Sen. Deb Fischer (Chair); Architect of the Capitol Tom Austin and Librarian of Congress Robert Newlen as witnesses",
+      "stage": "Stated need",
+      "title": "Senate Appropriations Legislative Branch Subcommittee schedules first FY27 budget review hearing — \"A Review of the Fiscal Year 2027 Budget Requests for the Architect of the Capitol and Library of Congress\" (Tuesday May 12, 2026)",
+      "link": "https://www.appropriations.senate.gov/hearings"
+    },
+    {
+      "row": 120,
+      "date": "2026-05-11",
+      "sourceType": "Press",
+      "source": "Nextgov/FCW + Government Executive (May 2026)",
+      "actor": "POPVOX Foundation (Anne Meeker, MD) — recommending Congress adopt AI-synthesis-driven structured input from federal implementers via reauthorization cycles + listening sessions",
+      "stage": "Stated need",
+      "title": "Nextgov/FCW + GovExec feature on POPVOX's 'Departure Dialogues' (May 2026) — outlet pickup of the May 5 Cannon 330 briefing (row 116) AND new forward-looking recommendation: Congress should replicate POPVOX's process (incl. AI synthesis of mid-level expert input) by building structured input pipelines into reauthorization cycles + inviting mid-level federal experts in for structured listening sessions",
+      "link": "https://www.nextgov.com/policy/2026/05/inside-effort-connect-congress-feds-enacting-its-policies/413407/"
+    },
+    {
+      "row": 121,
+      "date": "2026-05-11",
+      "sourceType": "Press / Community",
+      "source": "Axios Finish Line (axios.com/2026/05/08/politik-app-legislation-congress) — write-up of the Politik app + the product itself",
+      "actor": "Three college juniors (international relations majors, post-Hill-summer-internship) — built constituent-facing ZIP-code-to-legislation translation app using AI to design + ship without prior coding experience",
+      "stage": "Launched",
+      "title": "Politik 'Congress in Your Pocket' app launches — ZIP-code-input → vote records + campaign-finance + plain-language bill explanations + 'how would you vote' polling, built by three college students using AI to overcome no-prior-coding-experience",
+      "link": "https://www.axios.com/2026/05/08/politik-app-legislation-congress"
+    },
+    {
+      "row": 122,
+      "date": "2026-05-13",
+      "sourceType": "Hill institutional",
+      "source": "appropriations.senate.gov",
+      "actor": "Senate Appropriations Leg Branch Subcommittee / AOC Thomas Austin / LoC Carla Hayden",
+      "stage": "In-flight build",
+      "title": "Senate Approps FY27 Leg Branch hearing DELIVERED (May 12, 2026) — AOC requests $1.6B (105% increase, citing 'system degradation and failure' and need for sustained 15-20 yr investment); LoC requests $931.5M w/ technology investments incl. AI / cybersecurity / cloud / system modernization; Chair Fischer signals 'highly unlikely' to fully fund + warns most senators would be surprised at the scale of sustained investment [stage_change vs row 119]",
+      "link": "https://www.appropriations.senate.gov/hearings/a-review-of-the-fiscal-year-2027-budget-requests-for-the-architect-of-the-capitol-and-library-of-congress"
+    },
+    {
+      "row": 123,
+      "date": "2026-05-13",
+      "sourceType": "Press",
+      "source": "Roll Call",
+      "actor": "Sen. Deb Fischer (Chair, Senate Approps Leg Branch) / AOC Thomas Austin",
+      "stage": "Stated need",
+      "title": "Roll Call 'Senators balk at Architect of the Capitol boost' (May 12, 2026) — first press writeup of Senate Approps FY27 LB hearing; Chair Fischer (R-NE) tells AOC the $1.6B request would 'require much more member outreach and education' and warns 'many senators would be surprised to learn the level of significant and sustained investment that may be required over the next 15 to 20 years'",
+      "link": "https://rollcall.com/2026/05/12/senators-balk-at-architect-of-the-capitol-boost/"
+    },
+    {
+      "row": 124,
+      "date": "2026-05-13",
+      "sourceType": "Hill institutional",
+      "source": "cha.house.gov",
+      "actor": "Committee on House Administration / Rep. Joe Morelle (Ranking M&I)",
+      "stage": "In-flight build",
+      "title": "CHA Full Committee Markup scheduled May 14, 2026 9:45 AM 1310 LHOB — agenda includes (1) a Morelle bill to 'modernize administrative operations for the Federal Election Commission' alongside (2) Steil CFTA (H.R. 8720), (3) Steil Preventing Foreign Interference in Americans Elections Act (H.R. 8721), (4) Bice STEADFAST Act (H.R. 7418, election infrastructure cyber), (5) Fitzpatrick Stop Foreign Funds in Elections (H.R. 3535)",
+      "link": "https://cha.house.gov/2026/5/full-committee-markup-of-various-measures"
+    },
+    {
+      "row": 125,
+      "date": "2026-05-13",
+      "sourceType": "Hill institutional",
+      "source": "cha.house.gov",
+      "actor": "Rep. Joe Morelle (CHA Ranking Member)",
+      "stage": "In-flight build",
+      "title": "Morelle FEC administrative-operations modernization bill placed on May 14 CHA markup agenda",
+      "link": "https://cha.house.gov/2026/5/full-committee-markup-of-various-measures"
+    },
+    {
+      "row": 126,
+      "date": "2026-05-13",
+      "sourceType": "Hill institutional",
+      "source": "github.com/LibraryOfCongress",
+      "actor": "Library of Congress / Congress.gov API team",
+      "stage": "In-flight build",
+      "title": "Congress.gov API ChangeLog: May 18, 2026 production release — treaty actions endpoint 500-error fix + errata-vs-non-errata returns",
+      "link": "https://github.com/LibraryOfCongress/api.congress.gov/blob/main/ChangeLog.md"
+    },
+    {
+      "row": 127,
+      "date": "2026-05-13",
+      "sourceType": "Hill institutional",
+      "source": "cha.house.gov",
+      "actor": "CHA Chairman Bryan Steil (R-WI)",
+      "stage": "Bill introduced",
+      "title": "Steil introduces Campaign Finance Transparency Act (H.R. 8720) + Preventing Foreign Interference in Americans Elections Act (H.R. 8721) — May 11, 2026",
+      "link": "https://cha.house.gov/2026/5/chairman-steil-introduces-sweeping-campaign-finance-reforms"
+    },
+    {
+      "row": 128,
+      "date": "2026-05-14",
+      "sourceType": "Hill institutional",
+      "source": "U.S. Government Accountability Office (GAO-26-108896)",
+      "actor": "GAO / Comptroller General Gene L. Dodaro",
+      "stage": "Stated need",
+      "title": "GAO biennial 'Recommendations for Congress' report (GAO-26-108896, May 12, 2026) — 277 open matters for Congress, includes recommendation that Congress require major federal agencies to develop IT-modernization plans for most-at-risk legacy systems",
+      "link": "https://www.gao.gov/products/gao-26-108896"
+    },
+    {
+      "row": 129,
+      "date": "2026-05-14",
+      "sourceType": "Think tank / Civic org",
+      "source": "First Branch Forecast (firstbranchforecast.substack.com) — Chris Nehls, American Governance Institute",
+      "actor": "Chris Nehls (Senior Director, American Governance Institute) / Daniel Schuman",
+      "stage": "Stated need",
+      "title": "First Branch Forecast 'Reaching the Breaking Point' (May 11, 2026) — Library of Congress FY27 $34.4M tech-increase request gets only $23M in House subcommittee markup; staff pay + member backlog framing",
+      "link": "https://firstbranchforecast.substack.com/p/reaching-the-breaking-point"
+    },
+    {
+      "row": 130,
+      "date": "2026-05-14",
+      "sourceType": "Hill institutional",
+      "source": "cha.house.gov",
+      "actor": "CHA Subcommittee on Elections",
+      "stage": "Stated need",
+      "title": "CHA Subcommittee on Elections hearing 'Examining Best Practices for Strengthening Election Security' — May 20, 2026 2:00 PM ET, 1310 Longworth (paired same-day with FY27 Leg Branch full-committee markup at 10 AM in 2359 RHOB)",
+      "link": "https://cha.house.gov/2026/5/subcommittee-on-elections-hearing-examining-best-practices-for-strengthening-election-security"
+    },
+    {
+      "row": 131,
+      "date": "2026-05-14",
+      "sourceType": "Hill institutional",
+      "source": "Congress.gov / Quiver Quantitative",
+      "actor": "Rep. Joe Morelle (D-NY-25, Ranking Member CHA)",
+      "stage": "Bill introduced",
+      "title": "Morelle FEC Administrative Improvements Act formally introduced as H.R. 8738 (May 12, 2026) — modernizes FEC administrative operations, including a requirement that individuals/groups making 'electioneering communications' file reports electronically (parallels existing electronic-filing requirement for expenditures). 3 cosponsors at introduction; teed up for May 14 CHA full committee markup [stage_change vs row 123]",
+      "link": "https://www.quiverquant.com/news/New+Bill:+Representative+Joseph+D.+Morelle+introduces+H.R.+8738:+FEC+Administrative+Improvements+Act"
+    },
+    {
+      "row": 132,
+      "date": "2026-05-14",
+      "sourceType": "Vendors",
+      "source": "Code for America press release + Nextgov + GovExec + Route Fifty + StateScoop + GovTech + PRNewswire",
+      "actor": "Code for America + Anthropic (vendor partnership); state/county SNAP caseworkers (target users)",
+      "stage": "Launched",
+      "title": "Code for America + Anthropic announce 'SNAP Policy Navigator' partnership at CfA Summit Chicago (May 8, 2026) — Claude-powered MCP integration that gives SNAP caseworkers real-time access to verified federal/state/county SNAP policy when processing eligibility cases; multi-tool roadmap to follow (eligibility-doc review, plain-language constituent communications, policy QA)",
+      "link": "https://codeforamerica.org/news/anthropic-partnership/"
+    },
+    {
+      "row": 133,
+      "date": "2026-05-15",
+      "sourceType": "Hill institutional",
+      "source": "cha.house.gov",
+      "actor": "Chairman Bryan Steil (CHA Chair, WI-01); Rep. Morgan Griffith (VA-09); Rep. Mike Johnson (LA-04); Ranking Member Joe Morelle (D-NY-25); Subcommittee on Elections Chair Laurel Lee",
+      "stage": "Stated need",
+      "title": "CHA Full Committee Markup DELIVERED May 14, 2026 — Steil opening remarks confirm 7-bill agenda (not 5-6 as previously logged); first surfaces Griffith's Legislative Branch Agencies Clarification Act (H.R. 6028) — bipartisan-tweaked Article-1 bill clarifying Register of Copyright Office must consult Librarian of Congress on deposited-material regs — plus Johnson's VOTE Act (polling-location-closed notice during early voting) [stage_change vs row 124]",
+      "link": "https://cha.house.gov/2026/5/chairman-steil-delivers-opening-remarks-at-full-committee-markup"
+    },
+    {
+      "row": 134,
+      "date": "2026-05-15",
+      "sourceType": "Hill institutional",
+      "source": "GAO (Government Accountability Office) — gao.gov",
+      "actor": "Comptroller General Gene Dodaro / Government Accountability Office",
+      "stage": "Stated need",
+      "title": "GAO May 12, 2026 companion reports — GAO-26-108505 (16th annual Duplication/Overlap/Fragmentation report, projects $100B+ additional future financial benefits across federal programs) + GAO-26-108932 (financial-benefit estimates from open recommendations, projects $132B–$251B if Congress/agencies act). Companion to GAO-26-108896 (row 127) — same May 12 release set with broader oversight-and-savings framing.",
+      "link": "https://www.gao.gov/products/gao-26-108505"
+    },
+    {
+      "row": 135,
+      "date": "2026-05-15",
+      "sourceType": "Hill institutional",
+      "source": "U.S. Government Publishing Office (GPO) — gpo.gov / govinfo.gov; aggregated by NewsBreaks (InfoToday), beSpacific, Charleston Hub",
+      "actor": "GPO (Hugh Halpern, Director) / GovInfo / 90 federal agencies submitting CMRs",
+      "stage": "Launched",
+      "title": "GPO doubles Congressionally Mandated Reports on GovInfo to 1,000+ from 90 federal agencies (announced ~May 13, 2026)",
+      "link": "https://www.gpo.gov/who-we-are/news-media/news-and-press-releases/gpo-quadruples-the-number-of-congressionally-mandated-reports-since-launch"
+    },
+    {
+      "row": 136,
+      "date": "2026-05-16",
+      "sourceType": "Think tank",
+      "source": "Foundation for American Innovation (FAI) — thefai.org; surfaced via FAI Q1 2026 Quarterly Update",
+      "actor": "James Wallner (FAI Senior Fellow); Soren (FAI staff co-author)",
+      "stage": "Launched",
+      "title": "FAI publication 'Rebuilding Congress from Within: How Factions Facilitate Deliberation and Lawmaking' (Soren + Wallner, Q1 2026) — argues congressional dysfunction is primarily a failure of internal processes, with factions framed as deliberation-facilitators rather than obstacles [backfill from Q1 update]",
+      "link": "https://www.thefai.org/posts/rebuilding-congress-from-within-how-factions-facilitate-deliberation-and-lawmaking"
+    },
+    {
+      "row": 137,
+      "date": "2026-05-16",
+      "sourceType": "Think tank / Civic org",
+      "source": "First Branch Forecast (firstbranchforecast.substack.com) — Daniel Schuman, American Governance Institute",
+      "actor": "Daniel Schuman (Executive Director, American Governance Institute); House Office of Congressional Conduct (OCC); House Ethics Committee; Office of Congressional Workplace Rights (OCWR); Committee on House Administration",
+      "stage": "Stated need",
+      "title": "First Branch Forecast '5 Steps the House Can Take Now to Address Its Ethics Crisis' (Schuman, May 14, 2026) — proposes Select Commission on Congressional Integrity (final report due Oct 1, 2026) + 4 immediate House reforms: extend Ethics Committee jurisdiction past member departure, end DOJ-deferral of Ethics investigations, grant OCC subpoena power, 50% funding increase for Ethics/OCC/OCWR",
+      "link": "https://firstbranchforecast.substack.com/p/5-steps-the-house-can-take-now-to"
+    },
+    {
+      "row": 138,
+      "date": "2026-05-17",
+      "sourceType": "Press / Hill institutional",
+      "source": "FedScoop (Matt Bracken); corroborated by Bloomberg Government (news.bgov.com) + legis1.com; underlying Newlen testimony at Senate Approps LB Subcomm FY27 hearing May 12 2026",
+      "actor": "Robert Newlen (Acting Librarian of Congress); Library of Congress; Congressional Research Service; Sen. Mike Rounds (R-SD) + Sen. Martin Heinrich (D-NM) — Senate AI Caucus co-chairs; Sen. Jon Husted (R-OH); Sam Altman (OpenAI CEO, referenced)",
+      "stage": "Stated need",
+      "title": "Acting Librarian Newlen seeks $5.4M FY27 LoC 'Enterprise AI Platform' (Senate Approps LB hearing May 12) — reveals he recently spoke with OpenAI CEO Sam Altman about ChatGPT and Hill AI applications; offers that LoC 'would certainly be willing to take the lead' developing an AI platform 'that could serve the entire Congress'",
+      "link": "https://fedscoop.com/library-of-congress-ai-funding-request/"
+    },
+    {
+      "row": 139,
+      "date": "2026-05-17",
+      "sourceType": "Hill institutional",
+      "source": "CHA ModCom press release",
+      "actor": "Subcommittee on Modernization & Innovation (Bice); CAO",
+      "stage": "Funded",
+      "title": "CHA ModCom requests MIA funding for Service Academy Nomination Portal & Dashboard (May 4, 2026) — 'first-of-its-kind' effort to digitize the Service Academy nomination intake process; public-facing applicant portal + internal staff dashboard for review/tracking; directly implements a Select Committee on Modernization recommendation that the CAO build optional in-house tools for district-office casework",
+      "link": "https://cha.house.gov/2026/5/subcommittee-on-modernization-and-innovation-requests-funding-for-service-academy-nomination-portal-and-dashboard"
+    },
+    {
+      "row": 140,
+      "date": "2026-05-17",
+      "sourceType": "Hill institutional",
+      "source": "CHA markup / Congress.gov",
+      "actor": "House Administration Committee; bill sponsor(s)",
+      "stage": "In-flight build",
+      "title": "H.R. 6517 advances 11-0 out of CHA full committee markup (May 14, 2026) — bill modifies appointment + removal process for Librarian of Congress, Comptroller General (GAO), and Director of GPO: bipartisan congressional commission nominates 3, top-4 congressional leaders pick; removal requires 3/5 vote in each chamber; also overhauls U.S. Copyright Office",
+      "link": "https://www.congress.gov/bill/119th-congress/house-bill/6517"
+    },
+    {
+      "row": 141,
+      "date": "2026-05-17",
+      "sourceType": "Civic orgs",
+      "source": "First Branch Forecast (Schuman)",
+      "actor": "Daniel Schuman (American Governance Institute / FAI)",
+      "stage": "Launched",
+      "title": "First Branch Forecast 'Big Changes for the Library of Congress and Government Publishing Office' (Schuman + Nehls, May 14, 2026) — supportive analysis of H.R. 6517, frames bill as restoring congressional control over leg-branch agencies; contextualizes against Trump firing Librarian Hayden (May 2025) + attempt to fire Register of Copyrights Perlmutter; argues 'invaluable service in keeping Congress informed' justifies congressional hiring/firing authority",
+      "link": "https://firstbranchforecast.substack.com/p/big-changes-for-the-library-of-congress"
+    },
+    {
+      "row": 142,
+      "date": "2026-05-18",
+      "sourceType": "Press",
+      "source": "Punchbowl News Canvass",
+      "actor": "Senior Capitol Hill staffers (Punchbowl Canvass May 2026 panel)",
+      "stage": "Stated need",
+      "title": "Punchbowl Canvass 'AI, data centers lower electoral priority' (May 2026) — only 6% of Hill staffers say AI/data centers will be among the most important issues for the 2026 midterm elections; second-axis read of the same May Canvass panel that produced row 117's 0%/86% 'no AI framework by 2026' finding",
+      "link": "https://punchbowl.news/article/tech/canvas-ai-data-centers-elections/"
+    },
+    {
+      "row": 143,
+      "date": "2026-05-18",
+      "sourceType": "Press / Hill institutional",
+      "source": "In Custodia Legis (Library of Congress Law Library blog) — Andrew Weber",
+      "actor": "Library of Congress / Congress.gov product team",
+      "stage": "Launched",
+      "title": "Congress.gov May 2026 release adds 116th Congress House Roll Call Votes, Concurrent Resolutions browse page, and current Senator leadership titles",
+      "link": "https://blogs.loc.gov/law/2026/05/congress-gov-new-tip-and-top-may-2026/"
+    },
+    {
+      "row": 144,
+      "date": "2026-05-18",
+      "sourceType": "Hill institutional / Procurement & Build",
+      "source": "Congressional Data Coalition (congressionaldata.org) — House Clerk technology project timelines",
+      "actor": "Office of the Clerk of the House (Lobbying Disclosure modernization team)",
+      "stage": "Piloted",
+      "title": "House Clerk's Lobbying Disclosure modernization (unique lobbyist IDs) tracking to May 2026 completion",
+      "link": "https://congressionaldata.org/the-house-clerks-technology-project-timelines/"
+    },
+    {
+      "row": 145,
+      "date": "2026-05-23",
+      "sourceType": "Hill institutional",
+      "source": "House Committee on Appropriations - Republicans (appropriations.house.gov/news/press-releases)",
+      "actor": "House Committee on Appropriations / Cole (Chair) / Valadao (LegBranch Subcom Chair)",
+      "stage": "Bill introduced",
+      "title": "FY27 House Leg Branch Approps Act APPROVED by full committee 34-28 (May 20, 2026) — $7.3B discretionary (+$42.5M over FY26 enacted, $1.2B below FY27 request) [stage_change vs row 116: markup scheduled -> committee-reported]",
+      "link": "https://appropriations.house.gov/news/press-releases/committee-approves-fy27-legislative-branch-appropriations-act"
+    },
+    {
+      "row": 146,
+      "date": "2026-05-21",
+      "sourceType": "Hill body",
+      "source": "House Subcommittee on Modernization & Innovation — cha.house.gov",
+      "actor": "Subcommittee on Modernization & Innovation (Chairwoman Bice + Ranking Member Torres); CAO",
+      "stage": "Funded",
+      "title": "[stage_change] House Digital Signage and Wayfinding Initiative — MIA funding APPROVED (May 21, 2026)",
+      "link": "https://cha.house.gov/2026/5/subcommittee-on-modernization-and-innovation-receives-funding-for-house-digital-signage-and-wayfinding-initiative"
+    },
+    {
+      "row": 147,
+      "date": "2026-05-26",
+      "sourceType": "Hill body",
+      "source": "House Subcommittee on Modernization & Innovation — cha.house.gov",
+      "actor": "Subcommittee on Modernization & Innovation Chairwoman Stephanie Bice; CAO",
+      "stage": "Funded",
+      "title": "Service Academy Nomination Portal and Dashboard — MIA funding approved (May 26, 2026)",
+      "link": "https://cha.house.gov/2026/5/subcommittee-on-modernization-and-innovation-receives-funding-for-service-academy-nomination-portal-and-dashboard"
+    },
+    {
+      "row": 148,
+      "date": "2026-06-02",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation — popvox.org",
+      "actor": "POPVOX Foundation (Aubrey Wilson) / Meridian International Center / AI Staff Association / Congressional staff (House + Senate multi-office)",
+      "stage": "Piloted",
+      "title": "POPVOX Foundation AI Base Camp — Congressional staff hands-on AI training at Rayburn 2128 (June 2, 2026)",
+      "link": "https://www.popvox.org/blog/ai-base-camp"
+    },
+    {
+      "row": 149,
+      "date": "2026-05-19",
+      "sourceType": "Vendor",
+      "source": "Quorum blog — quorum.us",
+      "actor": "Quorum Analytics (Quincy AI product team)",
+      "stage": "Launched",
+      "title": "Quorum Quincy AI \"Smarter\" update — document upload, organizational scoping, CRM meeting-note integration (May 19, 2026)",
+      "link": "https://www.quorum.us/blog/smarter-quincy/"
+    },
+    {
+      "row": 150,
+      "date": "2026-06-01",
+      "sourceType": "Civic org",
+      "source": "Casework Navigator (Substack) — Anne Meeker / POPVOX Foundation",
+      "actor": "Anne Meeker (POPVOX Foundation Casework Navigator program)",
+      "stage": "Launched",
+      "title": "Casework Navigator 'Changes Afoot' — final month issue (June 2026): casework AI tools, agency modernization, future of constituent services",
+      "link": "https://caseworknavigator.substack.com/p/casework-navigator-changes-afoot"
+    },
+    {
+      "row": 151,
+      "date": "2026-05-27",
+      "sourceType": "Civic org / Think tank",
+      "source": "First Branch Forecast (Chris Nehls / AGI)",
+      "actor": "House Appropriations Committee / CAO / CRS / Congressional Budget Office",
+      "stage": "In-flight build",
+      "title": "FBF 'Tuned out at the Late Show' (May 27, 2026) — FY27 Leg Branch Approps report language: CAO to study multi-tiered AI tool review; CRS to deploy related-bills tracker on Congress.gov; all leg-branch agencies to report cybersecurity program status within 180 days",
+      "link": "https://firstbranchforecast.substack.com/p/tuned-out-at-the-late-show"
+    },
+    {
+      "row": 152,
+      "date": "2026-06-01",
+      "sourceType": "Vendor / Civic tech",
+      "source": "First Branch Forecast (Chris Nehls) / Capitol Labs (capitollabsllc.com)",
+      "actor": "Capitol Labs / Jason Lemons (former VP Prolegis; House staffer)",
+      "stage": "Launched",
+      "title": "Capitol Labs launches AI-transcribed congressional hearing database — speaker timestamps, keyword search across hearings/testimony/CRS reports, witness tracking; free with account (June 2026)",
+      "link": "https://www.capitollabsllc.com/hearings"
+    },
+    {
+      "row": 153,
+      "date": "2026-06-01",
+      "sourceType": "Civic org / Think tank",
+      "source": "First Branch Forecast (Chris Nehls) / AGI / UC Berkeley Goldman School of Public Policy",
+      "actor": "American Governance Institute (AGI) / UC Berkeley Goldman School of Public Policy (GSPP) / USAFacts",
+      "stage": "Launched",
+      "title": "Data Skills for Congress 2026 summer class (June 28 - Aug 27) — applications open; AI content added; House + Senate Ethics approved; free for Hill staff",
+      "link": "https://gspp.berkeley.edu/global/data-skills-for-congress"
+    },
+    {
+      "row": 154,
+      "date": "2026-06-06",
+      "sourceType": "Hill institutional",
+      "source": "Senate Appropriations Committee (appropriations.senate.gov)",
+      "actor": "Senate Appropriations Committee / Patty Murray (Ranking Member) / Senate Legislative Branch Subcommittee",
+      "stage": "In-flight build",
+      "title": "[stage_change] FY27 Senate Leg Branch Approps full-committee markup rescheduled from June 9, 2026 — timeline for Senate passage now TBD",
+      "link": "https://www.appropriations.senate.gov/hearings/full-committee-markup-of-commerce-justice-science-agriculture-rural-development-fda-and-legislative-branch-appropriations-acts"
+    },
+    {
+      "row": 155,
+      "date": "2026-01-22",
+      "sourceType": "Hill body",
+      "source": "GovInfo / GPO (govinfo.gov)",
+      "actor": "Government Publishing Office (GPO)",
+      "stage": "Piloted",
+      "title": "[stage_change] GovInfo MCP Server — public preview launched (January 22, 2026); GPO official MCP server for AI tools to access authoritative federal publications",
+      "link": "https://www.govinfo.gov/features/mcp-public-preview"
+    },
+    {
+      "row": 156,
+      "date": "2026-04-29",
+      "sourceType": "Civic org",
+      "source": "Civic Tech Field Guide (National Civic League quarterly roundup)",
+      "actor": "Independent civic tech developers / Civic Tech Field Guide (civictech.guide)",
+      "stage": "Launched",
+      "title": "Civic Tech Field Guide Q1 2026 Highlights: 'vibe-coded' civic apps surge — 1/3 of all legislation trackers launched in past 15 months; AI + Congress.gov data driving new entrants",
+      "link": "https://www.nationalcivicleague.org/ncr-article/curating-the-curators-civic-tech-field-guide-january-march-2026-highlights/"
+    },
+    {
+      "row": 157,
+      "date": "2026-06-05",
+      "sourceType": "Civic org",
+      "source": "POPVOX Foundation blog (popvox.org/blog)",
+      "actor": "POPVOX Foundation / Congressional and public-sector staff",
+      "stage": "Launched",
+      "title": "POPVOX AI Sandbox post-event report (June 5, 2026): Claude not Senate-approved; agentic AI inaccessible on official devices; participants built hearing-prep tools from single prompts",
+      "link": "https://www.popvox.org/blog/ai-sandbox"
+    },
+    {
+      "row": 158,
+      "date": "2026-05-28",
+      "sourceType": "Civic org",
+      "source": "Congressional Data Coalition (congressionaldata.org) — Maker Space series",
+      "actor": "Derek Willis (Merrill College of Journalism, University of Maryland; former ProPublica congressional data journalist)",
+      "stage": "Launched",
+      "title": "Congress Press — comprehensive collection of U.S. congressional members' press releases (spring 2026), updating Derek Willis's ProPublica work; free public tool at thescoop.org/congress-press/",
+      "link": "https://congressionaldata.org/congress-press/"
+    },
+    {
+      "row": 159,
+      "date": "2026-05-26",
+      "sourceType": "Civic org / Think tank",
+      "source": "First Branch Forecast (Chris Nehls / Daniel Schuman / AGI)",
+      "actor": "House Appropriations Committee (Subcommittee Chair David Valadao) / CAO / congressional leadership",
+      "stage": "In-flight build",
+      "title": "[stage_change] Congressional appointment authority for LoC and GPO Directors — bipartisan manager's amendment embeds commission model in FY27 House Leg Branch Approps Bill (May 20, 2026), advancing in parallel with CHA H.R. 6517",
+      "link": "https://firstbranchforecast.substack.com/p/restarting-the-legislative-branch"
+    },
+    {
+      "row": 160,
+      "date": "2026-05-26",
+      "sourceType": "Hill institutional",
+      "source": "First Branch Forecast (Chris Nehls / Daniel Schuman / AGI) — covering FY27 House Leg Branch Approps manager's amendment",
+      "actor": "House Appropriations Committee (Subcommittee Chair David Valadao, bipartisan) / CAO / Member offices",
+      "stage": "Stated need",
+      "title": "FY27 Leg Branch Approps manager's amendment: bipartisan support for updating Member correspondence management systems — stated need embedded in appropriations bill (May 20, 2026)",
+      "link": "https://firstbranchforecast.substack.com/p/restarting-the-legislative-branch"
+    },
+    {
+      "row": 161,
+      "date": "2026-06-09",
+      "sourceType": "Civic org / Civic tech",
+      "source": "Congressional Data Coalition / AGI Maker Space (congressionaldata.org)",
+      "actor": "Candace Moix + Julie Lin (TechCongress alumnae) / MyCapitol.ai",
+      "stage": "Launched",
+      "title": "MyCapitol.ai — free AI-powered digital advocacy platform launched by TechCongress alumnae (June 9, 2026): bill tracking, lobbyist engagement monitoring, Claude-integrated drafting for under-resourced advocates and congressional staff",
+      "link": "https://congressionaldata.org/mycapitol-ai-a-digital-advocacy-platform/"
+    },
+    {
+      "row": 162,
+      "date": "2026-06-04",
+      "sourceType": "Press / Hill body",
+      "source": "FedScoop / Rep. Trahan press office (trahan.house.gov) / Rep. Obernolte press office",
+      "actor": "Rep. Lori Trahan (D-MA) / Rep. Jay Obernolte (R-CA) / bipartisan House coalition",
+      "stage": "Stated need",
+      "title": "Great American AI Act (GAAIA) bipartisan discussion draft (June 4, 2026) — first comprehensive federal AI governance framework: codifies Center for AI Standards and Innovation, mandates GAO review of federal AI adoption, 3-year state AI preemption, $100M/yr authorized FY2027-29",
+      "link": "https://fedscoop.com/bipartisan-great-american-ai-act-draft-proposes-new-federal-ai-governance-framework/"
+    },
+    {
+      "row": 163,
+      "date": "2026-06-10",
+      "sourceType": "Civic org / Think tank",
+      "source": "Congressional Data Coalition / Daniel Schuman (AGI) (congressionaldata.org)",
+      "actor": "Daniel Schuman (AGI/CDC) + Houses of the Oireachtas (Irish Parliament) + Bússola Tech + 60+ delegates from dozens of parliaments",
+      "stage": "Piloted",
+      "title": "AI and Parliamentary Modernization conference Dublin (June 4-6, 2026): AI transcription resistance not about accuracy — members want to alter remarks; deterministic tools safer than generative AI for legislative business processes; U.S. participants included",
+      "link": "https://congressionaldata.org/ai-parliamentary-modernization-and-the-legislative-plumbing-of-democracy/"
+    },
+    {
+      "row": 164,
+      "date": "2026-06-11",
+      "sourceType": "Hill institutional / Civic org",
+      "source": "First Branch Forecast / Congressional Data Coalition (Chris Nehls / Daniel Schuman)",
+      "actor": "House Clerk's Office / CAO House Digital Service / Congressional Research Service",
+      "stage": "Launched",
+      "title": "[stage_change] Comparative Print Suite fully deployed House-wide — demo'd publicly as \"first AI-enabled tool in the House\" at CDTF June 11, 2026; compare.house.gov; 80-person Senate pilot active",
+      "link": "https://firstbranchforecast.substack.com/p/congressional-modernization-reaches"
+    },
+    {
+      "row": 165,
+      "date": "2026-06-11",
+      "sourceType": "Hill institutional / Civic org",
+      "source": "First Branch Forecast / Congressional Data Coalition (Barbara Perkins / CRS)",
+      "actor": "Congressional Research Service (Barbara Perkins)",
+      "stage": "Piloted",
+      "title": "CRS Text Analysis Program 2.0 (TAP 2.0) — first public demo at CDTF June 11; identifies bill similarity across Congresses back to 113th; side-by-side views; available in House (and CRS)",
+      "link": "https://firstbranchforecast.substack.com/p/congressional-modernization-reaches"
+    },
+    {
+      "row": 166,
+      "date": "2026-06-11",
+      "sourceType": "Hill institutional / Civic org",
+      "source": "First Branch Forecast / Congressional Data Coalition / GPO (Legislative Branch Innovation Hub)",
+      "actor": "GPO / Veneice Smith (House Clerk's Office) / Congressional Data Coalition / House CAO",
+      "stage": "Launched",
+      "title": "[stage_change] Legislative Branch Data Map now live on GPO Legislative Branch Innovation Hub — 130+ datasets with DCAT metadata, community-contributable (June 11, 2026 CDTF)",
+      "link": "https://usgpo.github.io/innovation/data"
+    },
+    {
+      "row": 167,
+      "date": "2026-06-08",
+      "sourceType": "Hill institutional",
+      "source": "First Branch Forecast (June 15, 2026) / Congressional Record CREC-2026-06-08",
+      "actor": "House of Representatives / Rep. Morgan Griffith (R-VA, primary sponsor) / bipartisan coalition",
+      "stage": "Bill introduced",
+      "title": "[stage_change] H.R. 6028 passes House unanimously under suspension (June 8, 2026) — congressional appointment commission for Librarian of Congress + GPO Director; Register of Copyrights gets hybrid process; awaits Senate",
+      "link": "https://firstbranchforecast.substack.com/p/congressional-modernization-reaches"
+    },
+    {
+      "row": 168,
+      "date": "2026-06-11",
+      "sourceType": "Hill institutional",
+      "source": "First Branch Forecast / Congressional Data Coalition (CDTF June 11, 2026)",
+      "actor": "Office of the Secretary of the Senate (Arin Shapiro)",
+      "stage": "In-flight build",
+      "title": "Senate \"Webster\" internal website revamp announced — Secretary of Senate to rebuild staff information discovery resource; 9-18 months; House-Senate authentication federation possible (June 11, 2026 CDTF)",
+      "link": "https://firstbranchforecast.substack.com/p/congressional-modernization-reaches"
+    },
+    {
+      "row": 169,
+      "date": "2026-06-11",
+      "sourceType": "Hill institutional",
+      "source": "First Branch Forecast / Congressional Data Coalition (CDTF June 11, 2026)",
+      "actor": "Office of the Secretary of the Senate",
+      "stage": "In-flight build",
+      "title": "Senate \"Bells\" app nearing completion — mobile notifications for votes, quorum calls, floor activity; on/off Hill via VPN; internal API planned; Senate adaptation of House bells system (June 11, 2026 CDTF)",
+      "link": "https://firstbranchforecast.substack.com/p/congressional-modernization-reaches"
+    },
+    {
+      "row": 170,
+      "date": "2026-06-15",
+      "sourceType": "Civic org / Think tank",
+      "source": "First Branch Forecast (June 15, 2026) / Lawyers for Good Government",
+      "actor": "Lawyers for Good Government / congressional caseworkers",
+      "stage": "Launched",
+      "title": "Lawyers for Good Government — free ethics-approved virtual training for congressional caseworkers on assisting constituents with disrupted federal grants (June 17, 2026, 1PM EST)",
+      "link": "https://us06web.zoom.us/webinar/register/WN_su-GsuWVR2GFrVX6fto5Qw"
+    },
+    {
+      "row": 171,
+      "date": "2026-06-09",
+      "sourceType": "Vendor",
+      "source": "Quorum blog / EIN Presswire (June 9, 2026)",
+      "actor": "Quorum",
+      "stage": "Launched",
+      "title": "Quorum \"Policy Comms Agent\" launched June 9, 2026 — third AI agent monitors org's press releases, auto-drafts legislative outreach in Quorum Outbox; completes AI agent trio with Meeting Prep + CRM agents (Apr 29)",
+      "link": "https://www.quorum.us/blog/quorum-policy-comms-agent/"
+    },
+    {
+      "row": 172,
+      "date": "2026-06-11",
+      "sourceType": "Civic org / Think tank",
+      "source": "First Branch Forecast (June 15, 2026) / American Governance Institute / Congressional Data Coalition",
+      "actor": "Daniel Schuman (AGI) + Dave Zvenyach",
+      "stage": "In-flight build",
+      "title": "AGI/CDC mandated reports gap analysis — project with Dave Zvenyach reveals ~2,000 missing congressionally mandated reports in GPO repository; 3,000+ required vs. 1,000+ published; metadata standards gap identified (June 11, 2026 CDTF)",
+      "link": "https://firstbranchforecast.substack.com/p/congressional-modernization-reaches"
+    },
+    {
+      "row": 173,
+      "date": "2026-06-19",
+      "sourceType": "Hill institutional",
+      "source": "Committee on House Administration (CHA)",
+      "actor": "Committee on House Administration (CHA) / Congressional Research Service (CRS)",
+      "stage": "Stated need",
+      "title": "CHA Full Committee Hearing: \"The Congressional Research Service and the Future of AI-Enabled Policy Analysis\" — June 25, 2026",
+      "link": "https://cha.house.gov/2026/6/full-committee-hearing-the-congressional-research-service-and-the-future-of-ai-enabled-policy-analysis"
+    }
+  ],
+  "sources": [
+    {
+      "sourceType": "Hill body",
+      "name": "House Subcommittee on Modernization & Innovation",
+      "url": "https://cha.house.gov/modernization"
+    },
+    {
+      "sourceType": "Hill body",
+      "name": "CAO / House Digital Service",
+      "url": "https://www.popvox.org/futureproofing-congress-accomplishments/hds"
+    },
+    {
+      "sourceType": "Hill body",
+      "name": "Congressional Data Task Force (CDTF)",
+      "url": "https://congressionaldata.org/"
+    },
+    {
+      "sourceType": "Hill body",
+      "name": "Library of Congress / Congress.gov API",
+      "url": "https://github.com/LibraryOfCongress/api.congress.gov"
+    },
+    {
+      "sourceType": "Hill body",
+      "name": "FY Leg Branch approps bills",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2257/text"
+    },
+    {
+      "sourceType": "Civic org",
+      "name": "POPVOX Foundation blog",
+      "url": "https://www.popvox.org/blog"
+    },
+    {
+      "sourceType": "Civic org",
+      "name": "Casework Navigator (Substack)",
+      "url": "https://caseworknavigator.substack.com/"
+    },
+    {
+      "sourceType": "Civic org",
+      "name": "Alliance of Civic Technologists (ACT)",
+      "url": "https://www.civictechnologists.org/"
+    },
+    {
+      "sourceType": "Civic org",
+      "name": "Beeck Center / Digital Government Network",
+      "url": "https://beeckcenter.georgetown.edu/"
+    },
+    {
+      "sourceType": "Civic org",
+      "name": "Civic Tech Field Guide",
+      "url": "https://directory.civictech.guide/"
+    },
+    {
+      "sourceType": "Think tank",
+      "name": "Foundation for American Innovation (FAI)",
+      "url": "https://www.thefai.org/"
+    },
+    {
+      "sourceType": "Think tank",
+      "name": "Demand Progress / Lincoln Policy",
+      "url": "https://lincolnpolicy.org/"
+    },
+    {
+      "sourceType": "Think tank",
+      "name": "Bipartisan Policy Center",
+      "url": "https://bipartisanpolicy.org/"
+    },
+    {
+      "sourceType": "Think tank",
+      "name": "Issue One",
+      "url": "https://issueone.org/"
+    },
+    {
+      "sourceType": "Vendor",
+      "name": "Fireside / FiscalNote press room",
+      "url": "https://fiscalnote.com/press-room"
+    },
+    {
+      "sourceType": "Vendor",
+      "name": "Quorum blog",
+      "url": "https://www.quorum.us/blog/"
+    },
+    {
+      "sourceType": "Vendor",
+      "name": "Civic (get-civic.com)",
+      "url": "https://get-civic.com/"
+    },
+    {
+      "sourceType": "Vendor",
+      "name": "LegiStorm",
+      "url": "https://info.legistorm.com/blog"
+    },
+    {
+      "sourceType": "Community",
+      "name": "r/fednews",
+      "url": "https://reddit.com/r/fednews"
+    },
+    {
+      "sourceType": "Community",
+      "name": "r/politics, r/Ask_Politics",
+      "url": "https://reddit.com/r/politics"
+    },
+    {
+      "sourceType": "Community",
+      "name": "Bluesky (#civictech, senator handles)",
+      "url": "https://bsky.app/"
+    },
+    {
+      "sourceType": "Community",
+      "name": "Facebook comments on Member pages",
+      "url": null
+    },
+    {
+      "sourceType": "Press",
+      "name": "FedScoop",
+      "url": "https://fedscoop.com/"
+    },
+    {
+      "sourceType": "Press",
+      "name": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/"
+    },
+    {
+      "sourceType": "Press",
+      "name": "Roll Call",
+      "url": "https://rollcall.com/"
+    },
+    {
+      "sourceType": "Press",
+      "name": "Government Executive",
+      "url": "https://www.govexec.com/"
+    },
+    {
+      "sourceType": "Press",
+      "name": "Tech Policy Press",
+      "url": "https://www.techpolicy.press/"
+    },
+    {
+      "sourceType": "GitHub",
+      "name": "civic-tech topic",
+      "url": "https://github.com/topics/civic-tech"
+    },
+    {
+      "sourceType": "GitHub",
+      "name": "congress / senate topics",
+      "url": "https://github.com/topics/congress?o=desc&s=updated"
+    },
+    {
+      "sourceType": "RFP/Approps",
+      "name": "Sam.gov (legislative branch filter)",
+      "url": "https://sam.gov/"
+    },
+    {
+      "sourceType": "Hill body",
+      "name": "Congressional Hackathon docs",
+      "url": "https://www.house.gov/Hackathon"
+    },
+    {
+      "sourceType": "Civic org",
+      "name": "Keeping Pace newsletter (Aubrey Wilson / POPVOX Foundation)",
+      "url": "https://keepingpacenews.substack.com/"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+---
+import Layout from '../../layouts/Layout.astro';import {radar,href} from '../../lib/data';
+---
+<Layout title="Actors"><section class="reading wide"><p class="eyebrow">DIRECTORY / ACTORS</p><h1>Actor labels</h1><p class="deck">Original actor labels, grouped by exact text.</p><p class="notice">Aliases and organizational relationships have not been inferred.</p><ul class="directory">{radar.actors.map(a=><li><a href={href(`actors/${a.id}/`)}>{a.name}<span>{a.count} observations ↗</span></a></li>)}</ul></section></Layout>

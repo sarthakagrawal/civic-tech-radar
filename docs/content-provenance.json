@@ -1,0 +1,8 @@
+{
+  "policy": "Field allowlist; no generated editorial prose",
+  "productName": {"text": "Civic Tech Radar", "source": "original project name"},
+  "dataset": {"source": "historical-input.json", "fields": ["title", "source", "actor", "sourceType", "stage", "date", "link", "row"], "attribution": "Historical tracker entries with original publisher links; not verified source quotations"},
+  "otherText": "Functional navigation, filters, field labels, provenance and import limitations only.",
+  "excluded": ["generated summary", "why-it-matters", "confidence", "relevance", "editorial digests", "discovery candidates", "private notes", "playground seeds"],
+  "unverifiedFields": "Original title and stage annotations are labeled historical; no authorship or current accuracy is asserted."
+}

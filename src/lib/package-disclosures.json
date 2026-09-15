@@ -1,0 +1,8 @@
+[
+  {
+    "name": "astro",
+    "version": "6.4.8",
+    "license": "MIT",
+    "source": "https://github.com/withastro/astro"
+  }
+]

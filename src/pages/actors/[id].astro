@@ -1,0 +1,5 @@
+---
+import Layout from '../../layouts/Layout.astro';import {radar,href,display} from '../../lib/data';
+export function getStaticPaths(){return radar.actors.map(actor=>({params:{id:actor.id},props:{actor}}));}const {actor}=Astro.props;const signals=radar.signals.filter(s=>s.actorId===actor.id);
+---
+<Layout title={actor.name}><section class="reading"><a class="back" href={href('actors/')}>← Actor labels</a><p class="eyebrow">ACTOR LABEL / HISTORICAL TRACKER</p><h1 class="detail-title">{actor.name}</h1><p>{signals.length} historical observations · exact label match</p><h2>Observation timeline</h2><ul class="timeline">{signals.map(s=><li><time datetime={s.date}>{s.date}</time><a href={href(`signals/${s.id}/`)}>{s.title}</a><span>{display(s.stage)}</span></li>)}</ul></section></Layout>

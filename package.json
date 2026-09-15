@@ -1,0 +1,36 @@
+{
+  "name": "civic-tech-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run import:workbook && astro build && node --import tsx scripts/release.ts",
+    "check": "astro check",
+    "test": "node --import tsx --test tests/core.test.ts tests/disclosures.test.ts",
+    "test:browser": "playwright test",
+    "verify": "npm run check && npm test && npm run build && npm run test:browser",
+    "import:workbook": "node --import tsx scripts/import-workbook.ts",
+    "preview": "astro preview",
+    "prebuild": "node scripts/notices.mjs"
+  },
+  "dependencies": {
+    "astro": "^6.1.9",
+    "arktype": "^2.2.3",
+    "drizzle-arktype": "^0.1.3",
+    "drizzle-orm": "^0.45.2",
+    "@electric-sql/pglite": "^0.5.7",
+    "exceljs": "^4.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "tsx": "^4.20.0",
+    "@astrojs/check": "^0.9.8",
+    "@playwright/test": "^1.56.0",
+    "@axe-core/playwright": "^4.10.0",
+    "@types/node": "^24.0.0"
+  }
+}

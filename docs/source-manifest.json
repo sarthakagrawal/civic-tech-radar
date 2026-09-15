@@ -1,0 +1,42 @@
+{
+  "sourceProject": "civic-tech-radar-data",
+  "sourceRevision": "dc289a3f1e726d2e1952faa1792c42f9bd67348b",
+  "files": [
+    {
+      "source": "src/db/derive/normalize.ts",
+      "sha256": "6c64858cb7376e6b1ff7b02cec7bb9175d913a74d371524320729f8590d72042"
+    },
+    {
+      "source": "src/db/validators.ts",
+      "sha256": "fb4370c07dbe052cb13c9bb922a8ce486e9fea2f17dc277ad27b9e2fc78570cc"
+    },
+    {
+      "source": "src/db/schema/bronze.ts",
+      "sha256": "8566b60f220d100bacc2d1688de4588c0995f83b63a615e73f2684f4e731a13a"
+    },
+    {
+      "source": "src/db/schema/silver.ts",
+      "sha256": "8c17a23518e5677180038d67c8ed3b291b04507b4eccb0abe8b00ddf2cfa0a5c"
+    },
+    {
+      "source": "src/db/schema/indicators.ts",
+      "sha256": "b09209db4a5be743844f9eaa137131a7250c2c5d3b8ac4878366be1e8df82063"
+    },
+    {
+      "source": "src/db/schema/discovery.ts",
+      "sha256": "325287d14beca3ac2c99091512bde8e2928710e461dc6428050f25109639a350"
+    },
+    {
+      "source": "src/db/schema/index.ts",
+      "sha256": "e50301f96fec08a3eaf8d6a3f193fe3fc56aa648dfe856d2a1a598a702606acf"
+    }
+  ],
+  "excluded": [
+    "environment files",
+    "database contents",
+    "discovery datasets",
+    "playground seeds",
+    "private research",
+    "Git history"
+  ]
+}

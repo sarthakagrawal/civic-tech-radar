@@ -1,0 +1,22 @@
+import ExcelJS from 'exceljs';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {Input} from '../src/lib/contracts.js';
+import {sha,transform,csv} from './pipeline.js';
+const workbookPath=process.argv[2];const legacyPath=process.argv[3];
+let input:typeof Input.infer;
+if(workbookPath){
+ if(!legacyPath)throw new Error('Pass workbook path and legacy JSON path. Neither is copied into this repository.');
+ const bytes=await readFile(workbookPath); const wb=new ExcelJS.Workbook();await wb.xlsx.load(bytes as never,{ignoreNodes:['tableParts']});
+ const text=(v:unknown):string=>v instanceof Date?v.toISOString().slice(0,10):typeof v==='number'?new Date(Date.UTC(1899,11,30)+v*86400000).toISOString().slice(0,10):String(v??'').trim();
+ const signalSheet=wb.getWorksheet('Signals');const sourceSheet=wb.getWorksheet('Sources');if(!signalSheet||!sourceSheet)throw new Error('Required sheet missing');
+ const rows:unknown[]=[]; signalSheet.eachRow((r,i)=>{if(i===1)return;rows.push({row:i,date:text(r.getCell(1).value),sourceType:text(r.getCell(3).value),source:text(r.getCell(4).value),actor:text(r.getCell(5).value),stage:text(r.getCell(6).value),title:text(r.getCell(7).value),link:text(r.getCell([122,123,124].includes(i)?10:11).value)});});
+ const sources:unknown[]=[];sourceSheet.eachRow((r,i)=>{if(i===1)return;sources.push({sourceType:text(r.getCell(1).value),name:text(r.getCell(2).value),url:text(r.getCell(3).value)||null});});
+ const legacy=await readFile(legacyPath);input=Input.assert({schemaVersion:1,workbookSha256:sha(bytes),legacySnapshotSha256:sha(legacy),legacyCount:JSON.parse(legacy.toString()).signals.rows.length,rows,sources});
+ await writeFile('data/historical-input.json',JSON.stringify(input,null,2)+'\n');
+}else input=Input.assert(JSON.parse(await readFile('data/historical-input.json','utf8')));
+const dataset=transform(input);await mkdir('public/exports',{recursive:true});
+await writeFile('data/radar.json',JSON.stringify(dataset,null,2)+'\n');
+await writeFile('public/exports/radar.json',JSON.stringify(dataset)+'\n');
+await writeFile('public/exports/signals.csv',csv(dataset.signals));
+await writeFile('public/exports/history.json',JSON.stringify(dataset.history)+'\n');
+console.log(`Imported ${dataset.signals.length} historical observations; ${dataset.provenance.additionalRows} beyond legacy snapshot.`);
