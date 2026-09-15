@@ -23,3 +23,5 @@ const next=new URLSearchParams();for(const [k,v] of [['q',search.value],['stage'
 form.addEventListener('submit',e=>e.preventDefault());form.addEventListener('input',update);form.addEventListener('change',update);form.addEventListener('reset',()=>{queueMicrotask(()=>{view='table';update();});});
 viewButtons[0]!.addEventListener('click',()=>{view='table';update();});viewButtons[1]!.addEventListener('click',()=>{view='radar';update();});
 (document.querySelector('#view-controls') as HTMLElement).hidden=false;update();
+
+export {};

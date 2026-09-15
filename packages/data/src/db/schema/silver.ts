@@ -47,6 +47,7 @@ export const sources = pgTable(
       .default("candidate"),
     firstSeenAt: timestamp("first_seen_at", { withTimezone: true }).notNull().defaultNow(),
     lastCheckedAt: timestamp("last_checked_at", { withTimezone: true }),
+    latestRawEventId: uuid("latest_raw_event_id").references(() => rawIngestionEvents.id),
   },
   (table) => [
     index("sources_url_idx").on(table.url),
