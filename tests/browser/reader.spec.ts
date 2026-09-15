@@ -3,3 +3,23 @@ const base='/data/civic-tech-radar/';
 test('filters, sort, shareable state, radar, details, directory and CSP',async({page})=>{const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));await page.goto(base);await expect(page.locator('#observations tr')).toHaveCount(172);await page.getByLabel('Original stage',{exact:true}).selectOption('Funded');await expect(page.locator('#observations tr:visible')).toHaveCount(11);await page.getByLabel('Search the record').fill('CEIP');expect(new URL(page.url()).searchParams.get('q')).toBe('CEIP');await page.reload();await expect(page.getByLabel('Search the record')).toHaveValue('CEIP');await page.getByRole('button',{name:'Reset',exact:true}).click();await page.getByLabel('Sort observations').selectOption('oldest');await expect(page.locator('#observations tr').first()).toHaveAttribute('data-date',[...data.signals].map(s=>s.date).sort()[0]!);await page.getByRole('button',{name:'Radar',exact:true}).click();await expect(page.locator('#radar-panel')).toBeVisible();await page.locator('#radar-panel a').first().click();await expect(page.getByRole('heading',{name:'Record provenance'})).toBeVisible();await expect(page.getByRole('link',{name:'Open original source'})).toHaveAttribute('href',/^https?:/);await page.getByRole('link',{name:'Sources',exact:true}).first().click();await page.locator('.directory a').first().click();await expect(page.getByRole('heading',{name:'Observation timeline'})).toBeVisible();expect(errors).toEqual([]);});
 test('keyboard and WCAG checks at desktop and enlarged mobile',async({page,browserName})=>{await page.goto(base);if(browserName==='webkit')await page.getByRole('link',{name:'Skip to content'}).focus();else await page.keyboard.press('Tab');await expect(page.getByRole('link',{name:'Skip to content'})).toBeFocused();await page.keyboard.press('Enter');let a=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();expect(a.violations).toEqual([]);await page.setViewportSize({width:390,height:844});await page.emulateMedia({reducedMotion:'reduce'});await page.evaluate(()=>document.documentElement.style.fontSize='200%');expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);await expect(page.locator('#observations tr').first()).toBeVisible();a=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();expect(a.violations).toEqual([]);});
 test('no-JavaScript browse and source/actor pages',async({browser})=>{const context=await browser.newContext({javaScriptEnabled:false});const page=await context.newPage();await page.goto('http://127.0.0.1:4328'+base);await expect(page.locator('#observations tr')).toHaveCount(172);await page.locator('.signal-title').first().click();await expect(page.getByRole('heading',{name:'Record provenance'})).toBeVisible();await page.getByRole('link',{name:'Actors',exact:true}).click();await page.locator('.directory a').first().click();await expect(page.getByRole('heading',{name:'Observation timeline'})).toBeVisible();await context.close();});
+
+test('720px tablet reflows at 200% text without clipping the record or controls', async ({page}) => {
+  await page.setViewportSize({width: 720, height: 500});
+  await page.goto(base);
+  await page.evaluate(() => {document.documentElement.style.fontSize = '200%';});
+  await expect(page.locator('.hero-stats')).toBeVisible();
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+  // Text can overflow even when every element box fits, so check glyph bounds too.
+  expect(await page.locator('.hero-stats strong').evaluate(element => {
+    const range = document.createRange();
+    range.selectNodeContents(element);
+    return [...range.getClientRects()].every(rect => rect.left >= 0 && rect.right <= window.innerWidth);
+  })).toBe(true);
+  await page.getByLabel('Original stage', {exact: true}).selectOption('Funded');
+  await expect(page.locator('#observations tr:visible')).toHaveCount(11);
+  const accessibility = await new AxeBuilder({page}).withTags(['wcag2a', 'wcag2aa', 'wcag21aa']).analyze();
+  expect(accessibility.violations).toEqual([]);
+  await page.getByRole('button', {name: 'Radar', exact: true}).click();
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+});
